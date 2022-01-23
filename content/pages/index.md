@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: '"Bring More Customers to our clients through Social Media."'
+    title: Unlock Digital.
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
