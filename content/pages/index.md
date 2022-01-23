@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Unlock Digital.
+    title: Unlock Digital
     subtitle: '"Bring More Customers to our clients through Social Media."'
     actions:
       - label: Contact Me
