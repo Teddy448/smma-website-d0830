@@ -91,7 +91,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: 
+      - title: Business Development
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
