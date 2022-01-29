@@ -57,7 +57,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Facebook Ads Management
+      - title: Social Media Advertising
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
