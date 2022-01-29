@@ -9,7 +9,7 @@ sections:
     
         url: https://t.me/teddykheav
         style: primary
-        label: 
+        label: Call Now?
     
         url: https://t.me/teddykheav
         style: primary
