@@ -9,6 +9,10 @@ sections:
     
         url: https://t.me/teddykheav
         style: primary
+        label: Telegram For Work
+    
+        url: https://t.me/teddykheav
+        style: primary
     image: /images/160992035_215617100037309_2130210439709428778_n.jpg
     image_alt: A smiling woman
     media_position: right
