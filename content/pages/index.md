@@ -9,11 +9,6 @@ sections:
     
         url: https://t.me/teddykheav
         style: primary
-
-        label: Call Now?
-    
-        url: 0978444850
-        style: primary
     image: /images/160992035_215617100037309_2130210439709428778_n.jpg
     image_alt: A smiling woman
     media_position: right
