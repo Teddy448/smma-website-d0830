@@ -48,7 +48,7 @@
             {
                 "label": "Contact me",
                 "url": "/contact",
-                "style": "link"
+                "style": "https://t.me/teddykheav"
             }
         ],
         "has_secondary_nav": true,
