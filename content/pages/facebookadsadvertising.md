@@ -3,7 +3,8 @@ title: Unlock Digital Agency
 seo:
   title: Hello
   description: ''
-  robots: []
+  robots:
+    - all
   extra: []
 layout: page
 ---
