@@ -3,7 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: Unlock Digital
-    subtitle: '"Bring More Customers to our clients through Social Media."'
+    subtitle: '"Bring More Customers to our clients through Social Media.
+    "'
     actions:
       - label: Telegram For Work
     
