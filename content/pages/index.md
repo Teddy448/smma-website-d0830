@@ -9,7 +9,7 @@ sections:
     
         url: https://t.me/teddykheav
         style: primary
-        label: Telegram For Work
+        label: 
     
         url: https://t.me/teddykheav
         style: primary
