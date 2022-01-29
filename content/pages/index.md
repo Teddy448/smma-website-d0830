@@ -6,7 +6,7 @@ sections:
     subtitle: '"Bring More Customers to our clients through Social Media."'
     actions:
       - label: Contact Me
-        url: /contact
+        url: https://t.me/teddykheav
         style: primary
     image: /images/160992035_215617100037309_2130210439709428778_n.jpg
     image_alt: A smiling woman
