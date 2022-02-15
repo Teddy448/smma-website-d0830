@@ -133,7 +133,15 @@ sections:
   - section_id: lorem-ipsum
     title: Blog
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     blog_feed_cols: three
     enable_cards: false
     show_recent: true
