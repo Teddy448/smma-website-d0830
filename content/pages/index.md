@@ -134,7 +134,7 @@ sections:
     title: Blog
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Telegram Channel
         url: '#'
         style: link
         has_icon: false
