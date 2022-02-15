@@ -24,6 +24,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     author: content/data/team/person-xl967nlwa.json
+    section_id: '10'
 seo:
   title: Contents
   description: This is Contents Page
