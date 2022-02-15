@@ -4,7 +4,6 @@ subtitle: Facebook Ads
 date: '2022-10-01'
 categories: []
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
