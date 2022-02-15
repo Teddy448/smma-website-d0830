@@ -143,7 +143,7 @@ sections:
         new_window: false
         no_follow: false
     blog_feed_cols: three
-    enable_cards: false
+    enable_cards: true
     show_recent: true
     recent_count: 0
     show_date: true
