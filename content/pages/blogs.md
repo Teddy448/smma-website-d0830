@@ -6,7 +6,6 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: Facebook Dynamic Ads?
-        subtitle: lorem-ipsum
         content: >+
           Facebook Dynamic Ads
           ជាផ្ទាំងពាណិជ្ជកម្មមួយប្រភេទដែលអាចបង្ហាញនូវផលិតផលផ្សេងៗគ្នាជាច្រើននិងចម្រុះគ្នាដោយជ្រើសយកតែផលិតផលណាដែលចំតម្រូវការរបស់អតិថិជនគោលដៅម្នាក់ៗ
