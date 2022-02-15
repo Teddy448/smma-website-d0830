@@ -76,7 +76,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: primary
-    background_image_opacity: 0
+    background_image_opacity: 20
     background_image_size: contain
     background_image_position: center top
     background_image_repeat: repeat
