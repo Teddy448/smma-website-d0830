@@ -1,6 +1,11 @@
 ---
 title: Blog
 layout: page
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
 # 📣 **ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?**
 
