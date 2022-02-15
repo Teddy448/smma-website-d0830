@@ -3,7 +3,8 @@ title: Blog
 seo:
   title: 'Blog '
   description: Facebook Ads Tip & Tricks
-  robots: []
+  robots:
+    - all
   extra:
     - name: ''
       value: ''
