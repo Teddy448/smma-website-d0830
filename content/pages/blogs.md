@@ -17,6 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     section_id: Facebook ads 1
+    background_image: /images/about.jpg
   - section_id: '05'
     title: Facebook Ads Tips & Tricks
     features:
