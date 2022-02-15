@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: ''
+  title: 'Blog '
   description: ''
   robots: []
   extra: []
