@@ -2,7 +2,7 @@
 title: 'Blogs '
 sections:
   - section_id: lorem-ipsum
-    title: Ads Fishing
+    title: ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?
     subtitle: 'Ohh, My GOD'
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
