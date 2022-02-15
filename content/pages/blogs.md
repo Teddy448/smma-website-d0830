@@ -60,7 +60,6 @@ sections:
           សង្ឃឹមថាអត្ថបទនេះនឹងបានជាប្រយោជន៍អ្នកមិត្តអ្នកអានទាំងអស់គ្នា ។
 
         actions: []
-        image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
         align: left
