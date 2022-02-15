@@ -1,7 +1,7 @@
 ---
 title: Sharing
 seo:
-  title: ''
+  title: Sharing
   description: ''
   robots: []
   extra: []
