@@ -135,7 +135,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
-    enable_cards: true
+    enable_cards: false
     show_recent: true
     recent_count: 5
     show_date: true
