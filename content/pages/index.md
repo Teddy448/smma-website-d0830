@@ -7,6 +7,7 @@ sections:
       - label: Contact Me
         url: 'https://t.me/teddykheav'
         style: primary
+        new_window: true
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
     media_position: left
     media_width: sixty
