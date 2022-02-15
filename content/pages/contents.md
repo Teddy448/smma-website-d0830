@@ -5,7 +5,7 @@ sections:
     subtitle: for someone who just started...
     actions: []
     blog_feed_cols: three
-    enable_cards: false
+    enable_cards: true
     show_recent: true
     recent_count: 3
     show_date: true
