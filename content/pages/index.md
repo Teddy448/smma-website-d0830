@@ -2,7 +2,7 @@
 title: Proagenci
 sections:
   - type: hero_section
-    title: Progenci
+    title: ProaGenci
     subtitle: '"Bring More Customers to our clients through Social Media."'
     actions:
       - label: Let's Talk in Telegram
