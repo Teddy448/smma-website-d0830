@@ -2,7 +2,7 @@
 title: Blog
 layout: page
 seo:
-  title: ''
+  title: Blogs
   description: ''
   robots: []
   extra: []
