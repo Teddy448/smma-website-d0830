@@ -21,6 +21,7 @@ sections:
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
+    video_embed_html: 'https://www.youtube.com/watch?v=rMcqLoeGt6U'
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
