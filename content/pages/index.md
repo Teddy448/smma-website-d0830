@@ -8,7 +8,7 @@ sections:
         url: 'https://t.me/teddykheav'
         style: primary
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
-    media_position: right
+    media_position: bottom
     media_width: fourty
     align: left
     padding_top: small
