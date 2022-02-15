@@ -130,33 +130,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - section_id: asdd
-    title: Blog
-    actions: []
-    blog_feed_cols: three
-    enable_cards: false
-    show_recent: true
-    recent_count: 5
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: true
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 20
-    background_image_size: auto
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: blog_feed_section
-    background_image: /images/marek-piwnicki-W_IGb_0nEcc-unsplash.jpg
-    category: content/data/categories/category-j7fqnrur4.json
-    author: content/data/team/person-4har54cqb.json
-    tag: content/data/tags/tag-7tlomox5t.json
-    subtitle: Free Sharing Facebook Ads Tips
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
