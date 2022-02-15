@@ -1,7 +1,7 @@
 ---
 title: Content
 sections:
-  - title: how to run ads for first time
+  - title: how to run ads for the first time
     subtitle: 'basic '
     actions: []
     blog_feed_cols: three
