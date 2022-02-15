@@ -2,7 +2,7 @@
 title: Content
 sections: []
 seo:
-  title: ''
+  title: Contents
   description: ''
   robots: []
   extra: []
