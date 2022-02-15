@@ -1,8 +1,7 @@
 ---
 title: Content
 sections:
-  - section_id: how to run ads for first time
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
