@@ -33,7 +33,8 @@
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
-                "no_follow": false
+                "no_follow": false,
+                "url": "/Blogs"
             }
         ],
         "has_secondary_nav": false,
