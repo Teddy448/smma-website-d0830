@@ -3,7 +3,7 @@ title: 'Blogs '
 sections:
   - section_id: lorem-ipsum
     title: Ads Fishing
-    subtitle: lorem-ipsum
+    subtitle: 'Ohh, My GOD'
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
