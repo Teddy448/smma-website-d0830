@@ -9,7 +9,6 @@ sections:
         url: 'https://t.me/teddykheav'
         style: primary
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
-    image_alt: A smiling woman
     media_position: right
     media_width: fifty
     align: left
