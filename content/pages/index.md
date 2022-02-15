@@ -11,7 +11,7 @@ sections:
         has_icon: true
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
     media_position: left
-    media_width: sixty
+    media_width: fourty
     padding_top: small
     padding_bottom: small
     background_color: secondary
