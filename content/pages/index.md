@@ -130,7 +130,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - section_id: lorem-ipsum
+  - section_id: asdd
     title: Blog
     actions: []
     blog_feed_cols: three
