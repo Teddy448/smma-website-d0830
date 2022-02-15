@@ -5,7 +5,7 @@ seo:
   title: ''
   description: ''
   robots:
-    - null
+    - all
   extra: []
 layout: advanced
 ---
