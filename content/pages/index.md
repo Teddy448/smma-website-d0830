@@ -135,7 +135,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: Telegram Channel
-        url: '#'
+        url: '#https://t.me/teddykheav'
         style: primary
         has_icon: false
         icon: arrow-left
