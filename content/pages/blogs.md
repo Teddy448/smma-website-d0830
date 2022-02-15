@@ -1,8 +1,7 @@
 ---
 title: 'Blogs '
 sections:
-  - section_id: lorem-ipsum
-    title: ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?
+  - title: ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
