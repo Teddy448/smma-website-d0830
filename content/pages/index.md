@@ -18,7 +18,7 @@ sections:
     background_image: /images/Screenshot 2022-02-15 160053.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 20
+    background_image_opacity: 10
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
