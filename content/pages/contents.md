@@ -1,7 +1,7 @@
 ---
 title: Content
 sections:
-  - section_id: lorem-ipsum
+  - section_id: how to run ads for first time
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
