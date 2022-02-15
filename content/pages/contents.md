@@ -9,6 +9,6 @@ seo:
     - name: ''
       value: ''
       keyName: name
-      relativeUrl: false
+      relativeUrl: true
 layout: advanced
 ---
