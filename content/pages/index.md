@@ -145,7 +145,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
-    recent_count: 0
+    recent_count: 5
     show_date: true
     show_categories: false
     show_author: false
