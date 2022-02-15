@@ -52,6 +52,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    section_id: Facebook ads 1
   - section_id: '05'
     title: Facebook Ads Tips & Tricks
     features:
