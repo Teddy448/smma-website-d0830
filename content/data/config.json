@@ -7,7 +7,6 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Personal",
         "logo": "/images/Untitled design (1).png",
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
