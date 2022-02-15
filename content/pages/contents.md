@@ -7,7 +7,7 @@ seo:
   robots: []
   extra:
     - name: Helow
-      value: ''
+      value: Helow
       keyName: name
       relativeUrl: true
 layout: advanced
