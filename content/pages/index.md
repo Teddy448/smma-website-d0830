@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: Social Media Advertising
-        subtitle: 'Facebook ads '
+        subtitle: 'Facebook ads , Tik Tok ads, '
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
