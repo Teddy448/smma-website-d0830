@@ -4,7 +4,8 @@ sections: []
 seo:
   title: ''
   description: ''
-  robots: []
+  robots:
+    - all
   extra: []
 layout: advanced
 ---
