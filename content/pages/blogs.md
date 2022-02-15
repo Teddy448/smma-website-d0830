@@ -82,6 +82,7 @@ sections:
     background_image_repeat: repeat
     type: features_section
     subtitle: A place where you can learn Basic of Digital Marketing...
+    background_image: /images/marek-piwnicki-W_IGb_0nEcc-unsplash.jpg
 seo:
   title: Blogs
   description: 'This is Blogs '
