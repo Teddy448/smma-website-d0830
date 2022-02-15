@@ -19,7 +19,7 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Contact me",
