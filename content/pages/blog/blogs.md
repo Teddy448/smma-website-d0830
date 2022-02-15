@@ -2,7 +2,8 @@
 title: "\U0001F4E3 ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?"
 subtitle: Facebook Ads
 date: '2022-10-01'
-categories: []
+categories:
+  - content/data/categories/tutorials.yaml
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
