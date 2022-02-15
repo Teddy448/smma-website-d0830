@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Proagenci
 sections:
   - type: hero_section
     title: Proagenci
