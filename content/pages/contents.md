@@ -3,7 +3,7 @@ title: Content
 sections: []
 seo:
   title: Contents
-  description: ''
+  description: This is Contents Page
   robots: []
   extra: []
 layout: advanced
