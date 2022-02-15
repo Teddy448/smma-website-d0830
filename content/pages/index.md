@@ -133,15 +133,7 @@ sections:
   - section_id: lorem-ipsum
     title: Blog
     subtitle: lorem-ipsum
-    actions:
-      - label: Telegram Channel
-        url: '#https://t.me/teddykheav'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
