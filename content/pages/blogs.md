@@ -2,7 +2,7 @@
 title: 'Blogs '
 sections: []
 seo:
-  title: ''
+  title: Blogs
   description: ''
   robots:
     - all
