@@ -13,7 +13,7 @@ sections:
     media_position: left
     media_width: fourty
     padding_top: medium
-    padding_bottom: small
+    padding_bottom: medium
     background_color: secondary
     background_image: /images/Screenshot 2022-02-15 160053.png
     background_image_repeat: repeat
