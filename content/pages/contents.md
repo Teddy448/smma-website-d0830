@@ -25,6 +25,7 @@ sections:
     type: blog_feed_section
     author: content/data/team/person-xl967nlwa.json
     section_id: '10'
+    category: content/data/categories/tutorials.yaml
 seo:
   title: Contents
   description: This is Contents Page
