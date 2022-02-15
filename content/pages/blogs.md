@@ -75,7 +75,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    subtitle: 'Sharing Free For '
 seo:
   title: Blogs
   description: 'This is Blogs '
