@@ -156,6 +156,7 @@ sections:
     category: content/data/categories/category-j7fqnrur4.json
     author: content/data/team/person-4har54cqb.json
     tag: content/data/tags/tag-7tlomox5t.json
+    subtitle: Free S
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
