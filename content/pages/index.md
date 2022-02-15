@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
-      - label: Let's Talk in Telegram
+      - label: 'Contact Me: '
         url: 'https://t.me/teddykheav'
         style: primary
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
