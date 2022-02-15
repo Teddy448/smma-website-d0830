@@ -2,7 +2,7 @@
 title: Sharing
 seo:
   title: Sharing
-  description: ''
+  description: This is sharing page
   robots: []
   extra: []
 layout: page
