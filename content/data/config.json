@@ -27,7 +27,8 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": false
+        "has_secondary_nav": false,
+        "title": "Header "
     },
     "footer": {
         "logo": "/images/Logo png.png",
