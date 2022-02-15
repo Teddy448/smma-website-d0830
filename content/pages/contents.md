@@ -2,7 +2,7 @@
 title: Content
 sections:
   - title: how to run ads for first time
-    subtitle: lorem-ipsum
+    subtitle: 'basic '
     actions: []
     blog_feed_cols: three
     enable_cards: false
