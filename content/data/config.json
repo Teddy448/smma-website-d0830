@@ -33,8 +33,7 @@
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
-                "no_follow": false,
-                "url": "https://www.business-cambodia.com/"
+                "no_follow": false
             }
         ],
         "has_secondary_nav": false,
