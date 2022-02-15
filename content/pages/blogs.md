@@ -5,7 +5,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: Facebook Dynamic Ads?
         subtitle: lorem-ipsum
         content: >+
           Facebook Dynamic Ads
