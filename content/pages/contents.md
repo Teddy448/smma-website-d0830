@@ -2,7 +2,7 @@
 title: Content
 sections:
   - title: how to run ads for the first time
-    subtitle: 'for someone who '
+    subtitle: for someone who just started...
     actions: []
     blog_feed_cols: three
     enable_cards: false
