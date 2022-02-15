@@ -28,7 +28,6 @@
             },
             {
                 "label": "Blog",
-                "url": "#Blogs",
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
