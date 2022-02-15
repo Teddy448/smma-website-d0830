@@ -26,6 +26,7 @@ sections:
     author: content/data/team/person-xl967nlwa.json
     section_id: '10'
     category: content/data/categories/tutorials.yaml
+    tag: content/data/tags/tag-7tlomox5t.json
 seo:
   title: Contents
   description: This is Contents Page
