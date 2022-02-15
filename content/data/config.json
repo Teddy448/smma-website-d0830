@@ -34,7 +34,7 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
-                "url": "/Blogs"
+                "url": "/blogs"
             }
         ],
         "has_secondary_nav": false,
