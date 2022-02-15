@@ -2,7 +2,7 @@
 title: 'Blogs '
 sections:
   - section_id: '05'
-    title: lorem-ipsum
+    title: Facebook Ads Tips & Tricks
     subtitle: lorem-ipsum
     features:
       - title: Facebook Dynamic Ads?
