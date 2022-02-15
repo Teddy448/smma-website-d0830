@@ -2,7 +2,7 @@
 title: 'Blogs '
 sections:
   - section_id: lorem-ipsum
-    title: sd
+    title: Ads Fishing
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
