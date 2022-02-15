@@ -2,39 +2,7 @@
 title: 'Blogs '
 sections:
   - title: ចង់ឲ្យមនុស្សឃើញពាណិជ្ជកម្មបានច្រើនដង តើគួរធ្វើដូម្តេច?
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-
-
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-      In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-      elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam
-      malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis.
-      Vestibulum quis elit magna. Vestibulum accumsan blandit consequat.
-      Phasellus quis posuere quam.
-
-
-      Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-      ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo
-      euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat
-      et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque
-      lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat
-      efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis
-      ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus
-      ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris,
-      viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus,
-      vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna
-      non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
-      dui. Integer vel convallis justo.
+    content: "អាជីវកម្មជាច្រើនបានធ្វើការចំណាយប្រាក់ប្រចាំខែដើម្បីធ្វើការផ្សព្វផ្សាយពាណិជ្ជកម្មនៅលើប្រព័ន្ធសង្គមពេញនិយម ហ្វេសប៊ុគ យ៉ាងណាមិញគោលបំណងចម្បងធំៗរបស់ពួកគាត់គឺការចង់ឲ្យមនុស្សស្គាល់ពី ម៉ាកសញ្ញា អាជីវកម្ម ផលិតផល និង សេវាកម្មរបស់ខ្លួន ដើម្បីបង្កើនការលក់តាមរបៀបផ្សេងៗ។\n\nបើសិនជាអាជីវកម្មរបស់អ្នក ទើបចាប់ផ្តើមធ្វើទីផ្សារឌីជីថល ហើយមានបំណងចង់ឲ្យក្រុមអតិថិជនគោលដៅ ចាប់អារម្មណ៏ និង ចងចាំ ម៉ាកសញ្ញានៃអាជីវកម្មរបស់អ្នកនោះ អ្នកអាចធ្វើការផ្សព្វផ្សាយ (ប៊ូស) តាមរយៈ ហ្វេសប៊ុគ ដោយជ្រើសរើស \U0001D5E5\U0001D5F2\U0001D5EE\U0001D5F0\U0001D5F5 \U0001D5D6\U0001D5EE\U0001D5FA\U0001D5FD\U0001D5EE\U0001D5F6\U0001D5F4\U0001D5FB \U0001D5E2\U0001D5EF\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F6\U0001D603\U0001D5F2 ដោយសារតែ \U0001D5E5\U0001D5F2\U0001D5EE\U0001D5F0\U0001D5F5 \U0001D5D6\U0001D5EE\U0001D5FA\U0001D5FD\U0001D5EE\U0001D5F6\U0001D5F4\U0001D5FB \U0001D5E2\U0001D5EF\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F6\U0001D603\U0001D5F2 នេះអនុញ្ញាតឲ្យអ្នកចំណាយលុយប៊ូសតិចហើយអាចមានមនុស្សច្រើននាក់ឃើញពាណិជ្ជកម្មរបស់អ្នកឲ្យបានច្រើនដង។\n\nហើយលក្ខណៈពិសេសនៃ \U0001D5E5\U0001D5F2\U0001D5EE\U0001D5F0\U0001D5F5 \U0001D5D6\U0001D5EE\U0001D5FA\U0001D5FD\U0001D5EE\U0001D5F6\U0001D5F4\U0001D5FB \U0001D5E2\U0001D5EF\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F6\U0001D603\U0001D5F2 គឺការដែលអ្នកអាចកំណត់ចំនួនដងនៃការមើលឃើញពាណិជ្ជកម្មរបស់អ្នកក្នុងមួយសប្តាហ៏សម្រាប់មនុស្សម្នាក់។\n\nឧទាហរណ៏ អ្នកមានប្រូម៉ូសិនថ្មីសម្រាប់សប្តាហ៏នេះ អ្នកចង់ឲ្យមនុស្សច្រើនដឹងអំពីប្រូម៉ូសិននេះ អញ្ចឹងអ្នកអាចធ្វើការផ្សព្វផ្សាយតាមរយៈ \U0001D5E5\U0001D5F2\U0001D5EE\U0001D5F0\U0001D5F5 \U0001D5D6\U0001D5EE\U0001D5FA\U0001D5FD\U0001D5EE\U0001D5F6\U0001D5F4\U0001D5FB \U0001D5E2\U0001D5EF\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F6\U0001D603\U0001D5F2 ហើយធ្វើការកំណត់ចំនួនដងនៃការឃើញពាណិជ្ជកម្ម ដោយក្នុងមនុស្សម្នាក់គួរតែឃើញ ពីរដង ក្នុងមួយថ្ងៃ ក្នុងរយៈពេលមួយសប្តាហ៏។\n\nតែជាការរំលឹក អ្នកពុំគួរធ្វើការកំណត់ចំនួនដងនៃការឃើញពាណិជ្ជកម្ម ច្រើនដងពេកនោះទេ ព្រោះវាអាចធ្វើឲ្យអ្នកដែលឃើញពាណិជ្ជកម្មមានភាពធុញទ្រាន់ ហើយធ្វើការ hide ឬ report ពាណិជ្ជកម្មរបស់អ្នក ដែលវាអាចប៉ះពាល់ដល់គុណភាពនៃពាណិជ្ជកម្ម និង ផេករបស់អ្នក។![](/images/Screenshot%202022-02-15%20160053.png)\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
