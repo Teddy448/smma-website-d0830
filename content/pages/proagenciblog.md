@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: 'Blog '
-  description: Free Sharing Facebook Ads Tip & Tricks
+  description: Facebook Ads Tip & Tricks
   robots: []
   extra: []
 layout: page
