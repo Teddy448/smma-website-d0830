@@ -5,7 +5,7 @@ sections:
     title: Proagenci
     subtitle: '"Bring More Customers to our clients through Social Media."'
     actions:
-      - label: Telegram For Work
+      - label: Let's Talk in Telegram
         url: 'https://t.me/teddykheav'
         style: primary
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
