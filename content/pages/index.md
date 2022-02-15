@@ -161,6 +161,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    background_image: /images/marek-piwnicki-W_IGb_0nEcc-unsplash.jpg
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
