@@ -131,7 +131,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Blog
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
