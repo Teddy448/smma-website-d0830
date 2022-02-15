@@ -64,7 +64,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/feature-3.svg
-        subtitle: What is Dynamic Ads Really is?
+        subtitle: What are Dynamic Ads Really is?
     feature_padding_vert: medium
     align: center
     padding_top: medium
