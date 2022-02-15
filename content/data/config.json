@@ -24,7 +24,7 @@
             {
                 "label": "Contact me",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Blogs",
