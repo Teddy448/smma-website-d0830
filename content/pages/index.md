@@ -20,6 +20,7 @@ sections:
     background_image_opacity: 10
     section_id: Header
     has_border: true
+    title: WELCOME TO PROAGENCI.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
