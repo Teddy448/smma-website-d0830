@@ -2,12 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Unlock Digital
+    title: Proagenci
     subtitle: '"Bring More Customers to our clients through Social Media."'
     actions:
       - label: Telegram For Work
-    
-        url: https://t.me/teddykheav
+        url: 'https://t.me/teddykheav'
         style: primary
     image: /images/160992035_215617100037309_2130210439709428778_n.jpg
     image_alt: A smiling woman
