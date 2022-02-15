@@ -12,7 +12,7 @@ sections:
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
     media_position: left
     media_width: fourty
-    padding_top: small
+    padding_top: medium
     padding_bottom: small
     background_color: secondary
     background_image: /images/Screenshot 2022-02-15 160053.png
