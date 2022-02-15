@@ -132,7 +132,7 @@ sections:
     background_image_opacity: 12
   - section_id: lorem-ipsum
     title: Blog
-    subtitle: lorem-ipsum
+    subtitle: Hello
     actions: []
     blog_feed_cols: three
     enable_cards: false
