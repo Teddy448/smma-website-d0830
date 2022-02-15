@@ -22,11 +22,6 @@ sections:
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
-    video_embed_html: >-
-      <iframe width="1280" height="720"
-      src="https://www.youtube.com/embed/yFrrEiKLsM4" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: features_section
     title: My services
     subtitle: What I do
