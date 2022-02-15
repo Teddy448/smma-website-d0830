@@ -1,7 +1,7 @@
 ---
 title: 'Blogs '
 sections:
-  - section_id: sda
+  - section_id: '01'
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
