@@ -22,7 +22,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    actions_position: left
+    actions_position: right
     align: left
     padding_top: large
     padding_bottom: medium
