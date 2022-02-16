@@ -46,7 +46,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    title: 'Call Us Now: '
+    title: 'Call Us Now: 097 8444 850'
 seo:
   title: Contact
   description: This is the contact page
