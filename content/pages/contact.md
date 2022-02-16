@@ -11,7 +11,7 @@ sections:
   - section_id: '02'
     title: Social Media
     actions:
-      - label: lorem-ipsum
+      - label: 'Facebook '
         url: '#'
         style: link
         has_icon: false
