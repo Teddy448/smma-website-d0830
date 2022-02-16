@@ -1,13 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: hero_section
-    title: How to Contact Us
-    subtitle: you can reach out to us through Social Media platforms or Call us now.
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - section_id: '02'
     actions:
       - label: 'Facebook '
@@ -47,6 +40,13 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     title: 'Call Us Now: 097 8444 850'
+  - type: hero_section
+    title: How to Contact Us
+    subtitle: you can reach out to us through Social Media platforms or Call us now.
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: none
 seo:
   title: Contact
   description: This is the contact page
