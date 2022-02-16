@@ -25,7 +25,7 @@ sections:
         no_follow: false
       - label: Call With Our Team
         url: '#0978444850'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
