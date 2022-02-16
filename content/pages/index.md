@@ -70,7 +70,7 @@ sections:
         image: /images/7-9c0cde04.png
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
     feature_padding_vert: large
     align: center
     background_color: none
