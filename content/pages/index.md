@@ -20,7 +20,7 @@ sections:
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
-    background_image_size: contain
+    background_image_size: auto
     align: left
   - type: features_section
     title: My services
