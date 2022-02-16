@@ -96,7 +96,6 @@ sections:
     background_image: /images/marek-piwnicki-W_IGb_0nEcc-unsplash.jpg
   - section_id: Article 01
     title: Learn More About Facebook Ads
-    subtitle: lorem-ipsum
     features:
       - title: 'ហេតុអីបានជាប៊ូស៥ថ្ងៃលក់បានតែ ២ថ្ងៃ? '
         subtitle: "\U0001F914\U0001F4AD"
