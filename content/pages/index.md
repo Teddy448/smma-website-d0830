@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: Paid Advertising
-        subtitle: 'Running ads on Facebook ads , Instagram Ads, Tik Tok ads'
+        subtitle: 'Running ads on Facebook, Instagram Ads, Tik Tok ads'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
