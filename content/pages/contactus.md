@@ -2,7 +2,7 @@
 title: Contact Us
 sections:
   - section_id: '02'
-    title: lorem-ipsum
+    title: របៀបទំនាក់ទំនងធ្វើការជាមួយពួកយើង៖
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
