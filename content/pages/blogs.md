@@ -26,7 +26,7 @@ sections:
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: តិចអត់ដឹង?
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
