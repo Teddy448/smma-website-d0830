@@ -43,7 +43,7 @@ sections:
           របស់យើងបំផុត ។
 
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
