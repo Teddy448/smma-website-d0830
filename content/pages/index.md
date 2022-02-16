@@ -30,8 +30,7 @@ sections:
         content: |
           Running Ads on Facebook, Instagram and Tik Tok.
         actions:
-          - label: asaf
-            style: primary
+          - style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
