@@ -16,7 +16,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
     background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
-    background_image_opacity: 5
+    background_image_opacity: 20
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
