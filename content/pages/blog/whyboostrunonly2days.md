@@ -4,7 +4,6 @@ date: '2022-12-02'
 categories: []
 tags: []
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
 image_position: top
 seo:
   title: ''
