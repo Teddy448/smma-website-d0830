@@ -111,7 +111,6 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-        image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
         align: left
