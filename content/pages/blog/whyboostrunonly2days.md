@@ -1,6 +1,5 @@
 ---
 title: "ហេតុអីបានជាប៊ូស៥ថ្ងៃលក់បានតែ ២ថ្ងៃ? \U0001F914\U0001F4AD"
-subtitle: lorem-ipsum
 date: '2022-12-02'
 categories: []
 tags: []
