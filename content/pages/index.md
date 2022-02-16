@@ -18,7 +18,7 @@ sections:
     background_image: /images/Screenshot 2022-02-15 160053.png
     background_image_opacity: 5
     section_id: Header
-    has_border: false
+    has_border: true
     title: WELCOME TO PROAGENCI.
     background_image_repeat: repeat
     background_image_size: auto
