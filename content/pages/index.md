@@ -57,7 +57,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Workshop & Consultancy
-        subtitle: 'Product updates, inventory and pricing.'
         content: |+
           Get a private full digital growth session for your team
 
