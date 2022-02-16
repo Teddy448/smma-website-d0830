@@ -22,7 +22,7 @@ sections:
     title: WELCOME TO PROAGENCI.
     background_image_repeat: repeat
     background_image_size: auto
-    align: center
+    align: right
   - type: features_section
     title: My services
     subtitle: What I do
