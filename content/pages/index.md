@@ -55,7 +55,7 @@ sections:
         image: /images/6.png
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
       - title: Workshop & Consultancy
         content: |+
           Get a private full digital growth session for your team
