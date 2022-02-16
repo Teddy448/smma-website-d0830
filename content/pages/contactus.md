@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 sections:
-  - section_id: lorem-ipsum
+  - section_id: '02'
     title: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
