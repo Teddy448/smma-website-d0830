@@ -40,7 +40,7 @@ sections:
         image: /images/5.png
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
       - title: Business Development
         content: >
           Get full control of your business, We take care of Design, Marketing
