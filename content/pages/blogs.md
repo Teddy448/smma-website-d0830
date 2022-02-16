@@ -56,7 +56,7 @@ sections:
         media_width: fifty
         align: right
         image: /images/feature-2.svg
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     has_border: false
     background_color: none
