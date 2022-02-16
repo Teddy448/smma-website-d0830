@@ -6,7 +6,7 @@ categories:
 tags: []
 image_position: top
 seo:
-  title: ''
+  title: getmanylikeinads
   description: ''
   robots: []
   extra: []
