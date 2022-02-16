@@ -3,7 +3,8 @@ title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
 date: '2022-10-02'
 categories:
   - content/data/categories/category-qkclj4pzc.json
-tags: []
+tags:
+  - content/data/tags/tag-7tlomox5t.json
 image_position: top
 seo:
   title: getmanylikeinads
