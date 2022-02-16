@@ -18,8 +18,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-          - label: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
