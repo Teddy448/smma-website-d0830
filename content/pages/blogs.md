@@ -179,6 +179,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/feature-3.svg
     feature_padding_vert: large
     align: center
     has_border: false
