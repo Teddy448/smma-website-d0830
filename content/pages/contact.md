@@ -9,7 +9,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - section_id: '02'
-    title: Social Media
     actions:
       - label: 'Facebook '
         url: '#'
