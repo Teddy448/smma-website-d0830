@@ -94,7 +94,7 @@ sections:
     type: features_section
     subtitle: A place where you can learn Basic of Digital Marketing...
     background_image: /images/marek-piwnicki-W_IGb_0nEcc-unsplash.jpg
-  - section_id: lorem-ipsum
+  - section_id: Article 01
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
