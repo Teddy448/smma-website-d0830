@@ -30,8 +30,7 @@ sections:
         content: |
           Running Ads on Facebook, Instagram and Tik Tok.
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: primary
             has_icon: false
             icon: arrow-left
