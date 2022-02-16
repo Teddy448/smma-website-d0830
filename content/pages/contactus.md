@@ -16,7 +16,7 @@ sections:
         no_follow: false
       - label: Telegaram
         url: '#'
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
