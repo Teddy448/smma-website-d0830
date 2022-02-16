@@ -25,7 +25,15 @@ sections:
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: តិចអត់ដឹង?
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
