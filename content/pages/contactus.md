@@ -24,7 +24,7 @@ sections:
         no_follow: false
     actions_position: right
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: none
