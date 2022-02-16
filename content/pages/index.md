@@ -16,7 +16,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
     background_image: /images/Screenshot 2022-02-15 160053.png
-    background_image_opacity: 10
+    background_image_opacity: 5
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
