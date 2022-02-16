@@ -9,7 +9,7 @@ sections:
         style: primary
         new_window: true
         has_icon: true
-    image: /images/Thydeth PNG.png
+    image: /images/4.png
     media_position: right
     media_width: sixty
     padding_top: medium
