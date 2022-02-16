@@ -30,7 +30,7 @@ sections:
         align: left
         image: /images/feature-3.svg
         subtitle: តើអ្នកដឹងទេ?
-      - title: lorem-ipsum
+      - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
