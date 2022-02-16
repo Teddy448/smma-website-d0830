@@ -23,7 +23,7 @@ sections:
         new_window: false
         no_follow: false
     actions_position: left
-    actions_width: fourty
+    actions_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
