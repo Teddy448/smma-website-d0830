@@ -47,7 +47,7 @@ sections:
           Get full control of your business, We take care of Design, Marketing
           Strategy, Social Media Ads, and so on.
         actions:
-          - label: See Past Work
+          - label: Learn More
             url: /faq
             style: primary
             has_icon: true
