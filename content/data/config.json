@@ -12,6 +12,16 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "Home ",
+                "url": "#proagenci",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About Us",
                 "url": "/about",
                 "style": "link"
@@ -35,16 +45,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "url": "/blogs"
-            },
-            {
-                "label": "Home ",
-                "url": "#proagenci",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": false,
