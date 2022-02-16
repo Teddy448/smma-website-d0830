@@ -130,7 +130,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
 seo:
-  title: Proagencihomepage
+  title: Home
   description: This is Home Page
   extra:
     - name: 'og:type'
