@@ -2,7 +2,8 @@
 title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
 subtitle: មុននឹងឆ្លើយសំនួរនេះ អ្នកចាំបាច់ត្រូវកំណត់ថាតើ like ត្រង់កន្លែងណាដែលអ្នកចង់បាន?
 date: '2022-10-02'
-categories: []
+categories:
+  - content/data/categories/category-qkclj4pzc.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
