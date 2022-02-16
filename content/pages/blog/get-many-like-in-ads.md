@@ -16,12 +16,25 @@ layout: post
 author: content/data/team/person-xl967nlwa.json
 thumb_image: /images/Screenshot 2022-02-15 160053.png
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+មុននឹងឆ្លើយសំនួរនេះ អ្នកចាំបាច់ត្រូវកំណត់ថាតើ like ត្រង់កន្លែងណាដែលអ្នកចង់បាន? ប្រសិនបើអ្នកចង់បាន ចំនួន reaction (like, love, care, haha, wow, sad, angry ) នៅលើ Post របស់យើង ជាការចាំបាច់យើងត្រូវតែរកមនុស្សដែលទំនងជាចាប់អារម្មណ៍លើ post របស់យើងបំផុត ។
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+1.  ត្រូវជ្រើសរើស Campaign ដ៏សាកសមបំផុត ។
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+ការជ្រើសរើស campaign ដ៏ត្រឹមត្រូវប្រៀបបាននឹងការប្រាប់ហ្វេសប៊ុកយ៉ាងច្បាស់ថាតើ អ្នកចង់ឲ្យ ក្រុមមនុស្សគោលដៅ ធ្វើអ្វីជាមួយនឹង post របស់អ្នក ។
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+ប្រសិនបើអ្នកចង់បានចំនួន reaction ច្រើននៅលើផុស ខ្ញុំសូមណែនាំឲ្យអ្នកជ្រើសរើសយក Post Engagement Campaign និងគួរកុំជ្រើសយក Reach Campaign ។ បើទោះបីជា Reach Campaign វាអាចជួយឲ្យមានមនុស្សច្រើនមើលឃើញក៏ដោយ តែបើតាមការណែនាំពី Facebook និង បទពិសោធន៍ផ្ទាល់របស់ខ្ញុំ Post Engagement នៅតែជា Campaign ដែលល្អបំផុតសម្រាប់បង្កើនចំនួន reaction, comment និង share សម្រាប់ content នៅលើ page ជាពិសេស content ជារូបភាព ។
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+1.  ជ្រើសរើសក្រុមមនុស្សដែលទំនងជាចាប់អាម្មណ៍ Content របស់យើងបំផុត ។ ឆ្លងតាមការសាកល្បងផ្ទាល់ទៅលើ page ជាច្រើនក្នុងវិស័យផ្សេងៗគ្នាមិនថា F\&B, Health & Fitness, Beauty & Cosmetic  វិស័យលក់យានយន្ដ ឬក៏ វិស័យអចលនៈទ្រព្យក៏ដោយ ការអនុវត្តដែលល្អបំផុតគឺការជ្រើសយក Interest 2 ស្រទាប់ ឧទាហរណ៍ថាខ្ញុំចង់ boost យក engagement សម្រាប់កាហ្វេរសជាតិថ្មី ប្រចាំហាងកាហ្វេមួយកន្លែងនៅទីក្រុងភ្នំពេញ ។ ស្រទាប់ទីមួយ ខ្ញុំនឹងជ្រើសយកពាក្យ Coffee ដើម្បីចាប់យកមនុស្សដែលចាប់អារម្មណ៍ កាហ្វេ ។ បន្ទាប់មកទៀតខ្ញុំនឹងជ្រើសយក ស្រទាប់ទី២ ដែលជា Leader នៅក្នុងវិស័យកាហ្វេ តែដើម្បីដឹងថា Keyword មួយណាជា Leader នៅក្នុងវិស័យនេះ ខ្ញុំនឹងចូលទៅកាន់ Facebook Insight ហើយជ្រើសរើសយកទីក្រុងភ្នំពេញ បន្ទាប់មកចូលទៅកាន់ Page Likes Tab ដើម្បីមើលថាតើ Page coffee shop មួយណាជាប់ជា Page ដែលមនុស្សនៅភ្នំពេញចូលចិត្តច្រើន ។ ខ្ញុំទទួលបាន page 2 គឺ Starbucks Cambodia និង BROWN Coffee and Bakery ក្រោយពេលដាក់ keywords ទាំងពីនេះចូល មានតែ Keyword Starbucks ប៉ុណ្ណោះដែល Facebook បានធ្វើការប្រមូលទិន្ន័យទុកនិងដាក់ឲ្យយើងយកមកប្រើប្រាស់បាន ។
+
+2.  យើងត្រូវប្រាកដចិត្តថា ត្រង់ចំនុច Optimization for Ad Delivery
+
+យើងបានជ្រើសរើសយក Post Engagement
+
+1.  យើងត្រូវជ្រើសរើស Creative Format ដែលសមស្របតាមស្ដង់ដារ ។ អ្នកគួរតែប្រើប្រាស់រូបតែមួយសន្លឹកដែលមានរាងការ៉េ ជាមួយនឹង ratio 1:1 ហើយបើអាចគួរតែមានទំហំ 2000 x  2000 px ។ ការប្រើ រូបភាព តែមួយសន្លឹកវាផ្ដល់ភាពងាយស្រួលដល់ក្រុមមនុស្សគោលដៅក្នុងការចាប់យកព័ត៌មានពី content របស់យើងបានរហ័យ និង ងាយស្រួលក្នុងរយៈពេលដ៏ខ្លីបំផុត ។
+
+2.  យើងត្រូវជ្រើសយក Placement ដែលងាយឲ្យមនុស្សចុច ប៊ូតុង reaction បំផុត ។ ប្រសិនបើអ្នកមានខ្ទង់ចំនាយច្រើនគួរសមអ្នកអាចជ្រើសរើស Automatic Placement ក៏បាន ។ ប៉ុន្ដែប្រសិនបើអ្នកចង់ ផ្ដោតយកតែចំនួន reaction នៅលើ post ។ ខ្ញុំសូមណែនាំឲ្យអ្នកជ្រើសយកតែ Facebook Mobile News Feed ដោយហេតុថា នៅពេលដែលអ្នកប្រើប្រាស់ហ្វេសប៊ុគ scroll timeline របស់គេហើយឃើញផ្ទាំងពាណិជ្ជកម្មរបស់យើង គេមានជ្រើស២សំខាន់ គឺចុច react ទៅលើ post ឬក៏អូសរំលងតែម្ដង
+
+3.  ដើម្បីកុំឲ្យយើងចាយច្រើនពេកទៅលើមនុស្សដដែលៗ ដែលធ្លាប់ឃើញ Ad យើងម្ដងជាពីរដងហើយ យើងអាចបង្កើត Rule ដើម្បីកំនត់ថា ប្រសិនបើ មនុស្សម្នាក់ឃើញផ្ទាំងពាណិជ្ជកម្មរបស់យើងលើសពី 2 ដងក្នុងមួយថ្ងៃឬក៏ លើសពី 3 ដងក្នុងរយៈពេល ៥ ថ្ងៃជាប់គ្នា យើងនឹងឲ្យ Ad នោះផ្អាកដំណើរការសិន រួចយឹងនឹងធ្វើការកែសម្រួលបន្ថែមទៀត។
+
+
+
