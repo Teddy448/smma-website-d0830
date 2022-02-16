@@ -63,10 +63,9 @@ sections:
         subtitle: >-
           Get full control of your business, We take care of Design, Marketing
           Strategy, Social Media Ads, and so on.
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Get full control of your business, We take care of Design, Marketing
+          Strategy, Social Media Ads, and so on.
         actions:
           - label: See Past Work
             url: /faq
