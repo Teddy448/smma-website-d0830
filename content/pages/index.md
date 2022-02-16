@@ -60,7 +60,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Business Development
-        subtitle: 'Your products and services, at scale.'
+        subtitle: >-
+          Get full control of your business, We take care of Design, Marketing
+          Strategy, Social Media Ads, and so on.
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
