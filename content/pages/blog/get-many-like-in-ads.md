@@ -5,7 +5,6 @@ date: '2022-10-02'
 categories:
   - content/data/categories/category-qkclj4pzc.json
 tags: []
-excerpt: sadas
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
