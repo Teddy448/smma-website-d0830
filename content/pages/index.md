@@ -11,7 +11,7 @@ sections:
         has_icon: true
     image: /images/Thydeth PNG.png
     media_position: right
-    media_width: fourty
+    media_width: sixty
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
