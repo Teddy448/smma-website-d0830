@@ -131,7 +131,7 @@ sections:
     background_image_opacity: 12
 seo:
   title: Proagenci
-  description: The preview of the Personal theme
+  description: This is Home Page
   extra:
     - name: 'og:type'
       value: website
