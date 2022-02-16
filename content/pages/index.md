@@ -9,7 +9,7 @@ sections:
         style: primary
         new_window: true
         has_icon: true
-    image: /images/Clients Helped.png
+    image: /images/Thydeth PNG.png
     media_position: left
     media_width: fourty
     padding_top: medium
