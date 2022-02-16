@@ -37,7 +37,7 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     actions:
-      - label: lorem-ipsum
+      - label: 'Facebook '
         url: '#'
         style: link
         has_icon: false
