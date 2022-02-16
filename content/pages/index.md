@@ -41,6 +41,21 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
+      - title: Business Development
+        content: >
+          Get full control of your business, We take care of Design, Marketing
+          Strategy, Social Media Ads, and so on.
+        actions:
+          - label: See Past Work
+            url: /faq
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/feature-3.svg
+        image_alt: Feature 3 illustration
+        media_position: right
+        media_width: sixty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
@@ -56,21 +71,6 @@ sections:
             icon_position: right
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
-        media_position: right
-        media_width: sixty
-      - title: Business Development
-        content: >
-          Get full control of your business, We take care of Design, Marketing
-          Strategy, Social Media Ads, and so on.
-        actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-3.svg
-        image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
     feature_padding_vert: large
