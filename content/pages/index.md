@@ -26,7 +26,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Social Media Advertising
+      - title: Paid Advertising
         subtitle: 'Facebook ads , Instagram Ads, Tik Tok ads'
         content: >-
           I will handle content writing for your digital assets, from
