@@ -99,7 +99,7 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: 'ហេតុអីបានជាប៊ូស៥ថ្ងៃលក់បានតែ ២ថ្ងៃ? '
-        subtitle: lorem-ipsum
+        subtitle: "\U0001F914\U0001F4AD"
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
