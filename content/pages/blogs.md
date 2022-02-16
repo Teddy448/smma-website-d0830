@@ -98,7 +98,6 @@ sections:
     title: Learn More About Facebook Ads
     features:
       - title: 'ហេតុអីបានជាប៊ូស៥ថ្ងៃលក់បានតែ ២ថ្ងៃ? '
-        subtitle: "\U0001F914\U0001F4AD"
         content: |+
           សួស្ដី! ស្វាគមន៍មកកាន់ក្រុមការងាររៀនប៊ូស
 
