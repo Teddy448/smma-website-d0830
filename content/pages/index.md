@@ -37,6 +37,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
+            label: Learn More
         image: /images/5.png
         image_alt: Feature 1 illustration
         media_position: right
