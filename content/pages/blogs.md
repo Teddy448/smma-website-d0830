@@ -164,7 +164,7 @@ sections:
           អ្នកអាចធ្វើការស្នើរសុំឲ្យហ្វេសប៊ុគពិនិត្យឡើងវិញបានផងដែរ ។
 
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
