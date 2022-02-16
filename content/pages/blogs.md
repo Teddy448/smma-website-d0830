@@ -24,7 +24,7 @@ sections:
         image: /images/feature-3.svg
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
-        subtitle: តិចអត់ដឹង
+        subtitle: តិចអត់ដឹង?
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
