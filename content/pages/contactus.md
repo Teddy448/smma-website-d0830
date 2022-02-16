@@ -14,7 +14,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Telgaram
         url: '#'
         style: link
         has_icon: false
