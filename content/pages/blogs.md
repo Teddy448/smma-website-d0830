@@ -23,23 +23,6 @@ sections:
         align: left
         image: /images/feature-3.svg
         subtitle: តើអ្នកដឹងទេ?
-      - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
-        actions:
-          - label: Read More
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
     feature_padding_vert: large
     align: center
     has_border: false
