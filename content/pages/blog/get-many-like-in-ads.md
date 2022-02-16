@@ -1,6 +1,6 @@
 ---
 title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
-subtitle: das
+subtitle: មុននឹងឆ្លើយសំនួរនេះ អ្នកចាំបាច់ត្រូវកំណត់ថាតើ like ត្រង់កន្លែងណាដែលអ្នកចង់បាន?
 date: '2022-10-02'
 categories: []
 tags: []
