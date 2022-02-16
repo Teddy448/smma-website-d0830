@@ -18,7 +18,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
+          - label: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
             url: '#'
             style: link
             has_icon: false
