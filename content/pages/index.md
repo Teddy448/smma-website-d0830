@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: Paid Advertising
-        content: >-
+        content: >
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
