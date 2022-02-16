@@ -117,6 +117,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/feature-3.svg
+        subtitle: តើអ្នកដឹងទេ?
     feature_padding_vert: large
     align: center
     has_border: false
