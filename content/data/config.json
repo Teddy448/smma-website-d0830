@@ -23,7 +23,8 @@
             },
             {
                 "label": "Contact me",
-                "style": "link"
+                "style": "link",
+                "url": "contactus"
             },
             {
                 "label": "Blogs",
