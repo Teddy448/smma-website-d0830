@@ -21,6 +21,7 @@ sections:
     section_id: Header
     has_border: true
     title: WELCOME TO PROAGENCI.
+    background_image_repeat: repeat
   - type: features_section
     title: My services
     subtitle: What I do
