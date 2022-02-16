@@ -57,7 +57,7 @@ sections:
         align: right
         image: /images/feature-2.svg
     feature_padding_vert: small
-    align: left
+    align: center
     has_border: true
     background_color: none
     background_image_opacity: 0
