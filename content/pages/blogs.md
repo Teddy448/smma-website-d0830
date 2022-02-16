@@ -55,6 +55,7 @@ sections:
         media_position: right
         media_width: fifty
         align: right
+        image: /images/feature-2.svg
     feature_padding_vert: large
     align: center
     has_border: false
