@@ -185,6 +185,7 @@ sections:
     background_color: none
     background_image_opacity: 0
     type: features_section
+    subtitle: The Fundamental of Digital Marketing
 seo:
   title: Blogs
   description: 'This is Blogs '
