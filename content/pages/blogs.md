@@ -12,7 +12,7 @@ sections:
 
         actions:
           - label: Read More
-            url: '#'
+            url: '#whyboostrunonly2days'
             style: primary
             has_icon: false
             icon_position: left
