@@ -60,9 +60,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Business Development
-        subtitle: >-
-          Get full control of your business, We take care of Design, Marketing
-          Strategy, Social Media Ads, and so on.
         content: >
           Get full control of your business, We take care of Design, Marketing
           Strategy, Social Media Ads, and so on.
