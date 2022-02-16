@@ -14,7 +14,7 @@ sections:
     media_width: sixty
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: none
     background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
     background_image_opacity: 20
     section_id: Header
