@@ -44,7 +44,7 @@ sections:
 
         actions:
           - label: Read More
-            url: '#/get-many-like-in-ads'
+            url: '#getmanylikeinadsa'
             style: primary
             has_icon: false
             icon: arrow-left
