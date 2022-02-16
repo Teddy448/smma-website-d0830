@@ -8,7 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - section_id: lorem-ipsum
+  - section_id: '02'
     title: Social Media
     actions: []
     actions_position: bottom
