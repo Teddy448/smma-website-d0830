@@ -31,7 +31,7 @@ sections:
         image: /images/feature-3.svg
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
-        subtitle: |
+        subtitle: |-
           សួស្ដី! ស្វាគមន៍មកកាន់ក្រុមការងាររៀនប៊ូស
 
           ថ្ងៃនេះខ្ញុំលើកយកមូលហេតុបីសំខាន់ដែលធ្វើអោយ Ad មិនដំណើរការ។
