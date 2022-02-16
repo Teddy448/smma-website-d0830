@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: 'https://t.me/teddykheav'
         style: primary
         new_window: true
