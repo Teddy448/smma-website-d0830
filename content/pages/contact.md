@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: How to Contact Us
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: you can reach out us throught Social Media Platform or Call Us Now
     align: center
     padding_top: medium
     padding_bottom: medium
