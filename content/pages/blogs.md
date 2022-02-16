@@ -100,7 +100,6 @@ sections:
     features: []
     feature_padding_vert: large
     align: center
-    padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
