@@ -64,6 +64,7 @@ sections:
     type: features_section
     subtitle: The Fundamental of Digital Marketing
     padding_bottom: medium
+    padding_top: medium
 seo:
   title: Blogs
   description: 'This is Blogs '
