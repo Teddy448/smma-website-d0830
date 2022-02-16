@@ -10,7 +10,15 @@ sections:
     background_color: none
   - section_id: '02'
     title: Social Media
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     actions_width: fourty
     align: left
