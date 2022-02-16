@@ -10,7 +10,7 @@ sections:
         new_window: true
         has_icon: true
     image: /images/Thydeth PNG.png
-    media_position: left
+    media_position: right
     media_width: fourty
     padding_top: medium
     padding_bottom: medium
