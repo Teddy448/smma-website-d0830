@@ -111,7 +111,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         image: /images/feature-3.svg
