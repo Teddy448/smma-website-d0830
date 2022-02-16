@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: How to Contact Us
-    subtitle: you can reach out us through Social Media Platform or Call us now.
+    subtitle: you can reach out us through Social Media platforms or Call us now.
     align: center
     padding_top: medium
     padding_bottom: medium
