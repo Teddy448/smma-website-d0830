@@ -3,8 +3,9 @@ title: Contact Us
 sections:
   - section_id: '02'
     title: របៀបទំនាក់ទំនងធ្វើការជាមួយពួកយើង៖
-    content: |
-      សហការីករាយ!!
+    content: |+
+      ### **អរគុណសម្រាប់ការចាប់អារម្មណ ៍ការងារជាមួយក្រុមការងារពួកយើង៖**
+
     actions:
       - label: 'Facebook '
         url: '#'
