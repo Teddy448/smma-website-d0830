@@ -16,7 +16,6 @@ sections:
     padding_bottom: medium
     background_color: secondary
     background_image: /images/Screenshot 2022-02-15 160053.png
-    background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 10
     section_id: Header
