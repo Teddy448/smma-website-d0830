@@ -25,7 +25,7 @@ sections:
 
     image: /images/Clients Helped-8c18fb96.png
     background_image_repeat: no-repeat
-    background_image_position: left top
+    background_image_position: left bottom
   - section_id: whoarewe
     title: Who are we?
     content: >+
