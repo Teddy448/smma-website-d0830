@@ -92,7 +92,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: 'Facebook '
         url: '#'
         style: link
         has_icon: false
