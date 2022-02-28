@@ -36,7 +36,7 @@ sections:
 
 
     actions:
-      - label: lorem-ipsum
+      - label: Myservices
         url: '#'
         style: link
         has_icon: false
