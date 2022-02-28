@@ -71,16 +71,6 @@ sections:
         media_width: fifty
         align: left
         title: "\U0001F4C6Workshop & Consultancy"
-      - subtitle: lorem-ipsum
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
-        title: 'Growth With Us, Start Now'
     feature_padding_vert: small
     align: center
     padding_top: small
