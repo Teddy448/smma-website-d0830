@@ -20,6 +20,9 @@ sections:
     has_border: true
     title: WELCOME TO PROAGENCI.
     align: left
+    content: |+
+      did you know many business owners fail ...
+
   - type: features_section
     title: My services
     subtitle: What I do
