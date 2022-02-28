@@ -46,8 +46,7 @@ sections:
         media_width: thirty-three
       - title: Social Media Branding
         content: >
-          Get full control of your business, We take care of Design, Marketing
-          Strategy, Social Media Ads, and so on. 
+          Full branding service to help you stand out amongst the crowd 
         actions:
           - label: Learn More
             url: /faq
