@@ -48,7 +48,7 @@ sections:
     title: Our Service
     subtitle: What i do for you.
     features:
-      - title: Paid Advertising
+      - title: "\U0001F4C8Paid Advertising"
         actions: []
         image_alt: lorem-ipsum
         media_position: right
