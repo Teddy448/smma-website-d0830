@@ -46,7 +46,7 @@ sections:
         media_width: thirty-three
       - title: Social Media Branding
         content: >
-          Fully service to help boost brand awareness and get more sales.
+          Fully service to help boost your brand awareness and get more sales.
         actions:
           - label: Learn More
             url: /faq
