@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "blue",
     "mode": "dark",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "logo": "/images/Untitled design (1).png",
         "logo_alt": "Proagencihome",
