@@ -162,7 +162,7 @@ sections:
     type: features_section
   - section_id: lorem-ipsum
     title: Why ProAGenci is your choice?
-    subtitle: lorem-ipsum
+    subtitle: Best Agency in town..
     actions: []
     grid_items:
       - title: lorem-ipsum
