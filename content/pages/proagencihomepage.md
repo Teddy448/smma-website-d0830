@@ -26,15 +26,12 @@ sections:
     background_image_size: cover
   - section_id: What is Proagenci?
     title: Who are we?
-    content: >+
-      # Proagenci.
+    content: >
+      ###### Proagenci.
 
 
       Group of Talents Peoples who work on Ads & Strategy bring your business
       stand out among the crowd.
-
-
-
     actions: []
     actions_position: bottom
     actions_width: fourty
