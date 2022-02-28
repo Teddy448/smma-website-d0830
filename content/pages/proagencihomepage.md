@@ -15,7 +15,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
-    background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
+    background_image: /images/Home page.png
     background_image_opacity: 20
     section_id: Proagenci
     has_border: true
