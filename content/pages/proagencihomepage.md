@@ -27,14 +27,11 @@ sections:
   - section_id: whoarewe
     title: Who are we?
     content: >+
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
+      ### ProAgenci
 
 
-      > Vestibulum ullamcorper risus auctor eleifend
-      consequat.![](/images/Thydeth%20PNG.png)
+      Group of Talents Peoples who work on Ads & Strategy bring your business
+      stand out among the crowd.
 
 
 
