@@ -46,7 +46,7 @@ sections:
     background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
   - section_id: lorem-ipsum
     title: Our Service
-    subtitle: lorem-ipsum
+    subtitle: What i do for you.
     features: []
     feature_padding_vert: medium
     align: center
