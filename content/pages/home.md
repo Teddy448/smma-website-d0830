@@ -138,7 +138,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-      - title: "\U0001F3AFFast & Effectively"
+      - title: "\U0001F3AF\U0001F431‍\U0001F3CDFast & Effectively"
         subtitle: We prepare everything you need for your tax return
         actions: []
         image_alt: lorem-ipsum
