@@ -114,7 +114,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        title: 'Growth With Us, Start '
+        title: 'Growth With Us, Start Now'
     feature_padding_vert: small
     align: center
     padding_top: small
