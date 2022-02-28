@@ -2,6 +2,7 @@
 title: Proagenci
 sections:
   - type: hero_section 
+        style: primary
     subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
       - label: Contact Me
