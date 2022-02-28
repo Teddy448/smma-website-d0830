@@ -24,7 +24,7 @@ sections:
       we are professional teams, let us do the work for you.
 
     background_image_size: cover
-  - section_id: lorem-ipsum
+  - section_id: whoarewe
     title: Who are we?
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
