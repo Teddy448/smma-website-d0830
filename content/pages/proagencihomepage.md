@@ -131,7 +131,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - section_id: 'Who are '
+  - section_id: What is Proagenci?
     title: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
