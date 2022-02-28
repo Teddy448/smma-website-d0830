@@ -73,7 +73,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        title: Workshop & Consultancy
+        title: "\U0001F5D3Workshop & Consultancy"
     feature_padding_vert: small
     align: center
     padding_top: small
