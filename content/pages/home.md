@@ -184,7 +184,7 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     title: Agenci Roadmap
-    subtitle: Here our roadmap plan for our clients.
+    subtitle: Here is our roadmap plan for our clients.
     actions: []
     grid_items: []
     grid_cols: three
