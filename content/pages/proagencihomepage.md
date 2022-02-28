@@ -19,7 +19,6 @@ sections:
     section_id: Proagenci
     has_border: true
     title: WELCOME TO PROAGENCI.
-    background_image_size: contain
     align: left
   - type: features_section
     title: My services
