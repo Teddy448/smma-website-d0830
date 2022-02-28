@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 100
     section_id: Proagenci
     has_border: true
-    title: WELCOME TO PROAGENCI.
+    title: WELCOME TO PROAGENC.
     align: left
     style: primary
     content: |+
