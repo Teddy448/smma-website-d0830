@@ -87,7 +87,7 @@ sections:
       - label: Telegram
         url: '#https://t.me/teddykheav'
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-left
         icon_position: left
         new_window: false
