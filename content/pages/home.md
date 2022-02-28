@@ -59,6 +59,10 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: fourty
+        subtitle: |
+          Bring your business to show up
+          in front of your ideal target audience using ads
+          ( Facebook, Instagram, Tik Tok, etc )
     feature_padding_vert: small
     align: center
     padding_top: small
