@@ -135,7 +135,7 @@ sections:
         subtitle: We prepare everything you need for your tax return.
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
       - title: Fast & Effectively
