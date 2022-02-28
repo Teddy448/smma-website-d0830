@@ -146,7 +146,7 @@ sections:
         media_width: fifty
         align: left
       - title: Sell More
-        subtitle: lorem-ipsum
+        subtitle: We prepare everything you need for your tax return
         actions: []
         image_alt: lorem-ipsum
         media_position: top
