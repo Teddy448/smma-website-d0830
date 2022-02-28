@@ -60,7 +60,7 @@ sections:
         media_position: right
         media_width: fourty
         image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: medium
