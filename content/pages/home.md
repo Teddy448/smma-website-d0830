@@ -223,7 +223,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: "\U0001F4B8Sell More"
         subtitle: lorem-ipsum
         title_align: left
         content: >-
