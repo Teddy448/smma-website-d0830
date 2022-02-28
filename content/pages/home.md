@@ -1,0 +1,104 @@
+---
+title: 'Proagenci '
+sections:
+  - type: hero_section
+    subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
+    actions:
+      - label: Contact Me
+        url: 'https://t.me/teddykheav'
+        style: primary
+        new_window: true
+        has_icon: true
+    media_position: right
+    media_width: sixty
+    padding_top: medium
+    padding_bottom: medium
+    background_color: secondary
+    background_image: /images/Proagenci.png
+    background_image_opacity: 100
+    section_id: Proagenci
+    has_border: true
+    title: WELCOME TO PROAGENCI.
+    align: left
+    content: |+
+      we are professional teams, let us do the work for you.
+
+    background_image_size: cover
+  - section_id: whoarewe
+    title: Who are we?
+    content: >+
+      > ProAgenci is Group of Talents Peoples who work on Ads & Strategy bring
+      your business stand out among the crowd.
+
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 30
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
+    background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
+  - section_id: lorem-ipsum
+    title: Our Service
+    subtitle: What i do for you.
+    features:
+      - title: Paid Advertising
+        content: |
+          Bring your business to show up
+
+          in front of your ideal target audience using ads
+
+          ( Facebook, Instagram, Tik Tok, etc )
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fourty
+        image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 10
+    background_image_position: center center
+    type: features_section
+    background_image: /images/about.jpg
+seo:
+  title: Home
+  description: This is Home Page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Stackbit Personal Theme
+      keyName: property
+    - name: 'og:description'
+      value: The preview of the Personal theme
+      keyName: property
+    - name: 'og:image'
+      value: images/personal-preview.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Stackbit Personal Theme
+    - name: 'twitter:description'
+      value: The preview of the Personal theme
+    - name: 'twitter:image'
+      value: images/personal-preview.png
+      relativeUrl: true
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
+layout: advanced
+---
