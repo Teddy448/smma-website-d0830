@@ -21,7 +21,7 @@ sections:
     title: WELCOME TO PROAGENCI.
     align: left
     content: |+
-      did you know many business owners fail ...
+      kc
 
     background_image_size: cover
   - type: features_section
