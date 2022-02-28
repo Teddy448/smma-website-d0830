@@ -44,7 +44,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: thirty-three
-      - title: Business Development
+      - title: Soia
         content: >
           Get full control of your business, We take care of Design, Marketing
           Strategy, Social Media Ads, and so on.
