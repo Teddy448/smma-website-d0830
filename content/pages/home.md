@@ -127,39 +127,6 @@ sections:
 
       *We can help you scale it with social media advertising.*
 
-  - section_id: WhyProagenci?
-    title: Why ProAGenci is your choice?
-    subtitle: Best Agency in town..
-    features:
-      - title: "\U0001F4A1Save Time & Money"
-        subtitle: We prepare everything you need for your tax return.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-      - title: "\U0001F431‍\U0001F3CDFast & Effectively"
-        subtitle: We prepare everything you need for your tax return
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-      - title: "\U0001F4B8Sell More"
-        subtitle: We prepare everything you need for your tax return.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-    padding_top: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - section_id: lorem-ipsum
     title: Why ProAGenci is your choice?
     subtitle: Best Agency in town..
