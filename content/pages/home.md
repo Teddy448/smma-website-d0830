@@ -165,7 +165,7 @@ sections:
     subtitle: Best Agency in town..
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: "\U0001F4A1Save Time & Money"
         subtitle: lorem-ipsum
         title_align: left
         content: >-
