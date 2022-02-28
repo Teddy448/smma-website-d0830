@@ -24,27 +24,6 @@ sections:
       we are professional teams, let us do the work for you.
 
     background_image_size: cover
-  - section_id: What is Proagenci?
-    title: Who are we?
-    content: >
-      ###### Proagenci.
-
-
-      Group of Talents Peoples who work on Ads & Strategy bring your business
-      stand out among the crowd.
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 100
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - type: features_section
     title: My services
     subtitle: What I do
