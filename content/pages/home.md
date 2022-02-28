@@ -70,37 +70,5 @@ sections:
     background_image_position: center center
     type: features_section
     background_image: /images/about.jpg
-seo:
-  title: |-
-    smma-website-d0830.stackbit.app
-    /home/
-  description: This is Home Page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Stackbit Personal Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Personal theme
-      keyName: property
-    - name: 'og:image'
-      value: images/personal-preview.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Personal Theme
-    - name: 'twitter:description'
-      value: The preview of the Personal theme
-    - name: 'twitter:image'
-      value: images/personal-preview.png
-      relativeUrl: true
-    - name: ''
-      value: ''
-      keyName: name
-      relativeUrl: false
 layout: advanced
 ---
