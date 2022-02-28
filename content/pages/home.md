@@ -211,7 +211,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: "\U0001F431‍\U0001F3CDFast & Effectively"
         subtitle: lorem-ipsum
         title_align: left
         content: >-
