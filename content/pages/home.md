@@ -11,7 +11,7 @@ sections:
         has_icon: true
     media_position: right
     media_width: fourty
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     background_color: secondary
     background_image: /images/Proagenci.png
