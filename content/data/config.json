@@ -38,7 +38,8 @@
         ],
         "has_secondary_nav": true,
         "title": "Header ",
-        "secondary_nav_links": []
+        "secondary_nav_links": [],
+        "logo": "/images/Logo png.png"
     },
     "footer": {
         "logo_alt": "Personal logo",
