@@ -139,7 +139,7 @@ sections:
         media_width: fifty
         align: left
       - title: Fast & Effectively
-        subtitle: Sell More
+        subtitle: We prepare everything you need for your tax return
         actions: []
         image_alt: lorem-ipsum
         media_position: top
