@@ -145,7 +145,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: Sell More
+      - title: "\U0001F4B8Sell More"
         subtitle: We prepare everything you need for your tax return.
         actions: []
         image_alt: lorem-ipsum
