@@ -96,5 +96,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    content: |+
+      ### scale your business to the next level with us. 
+
+      ###
+
 layout: advanced
 ---
