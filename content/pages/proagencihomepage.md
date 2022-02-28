@@ -24,6 +24,33 @@ sections:
       we are professional teams, let us do the work for you.
 
     background_image_size: cover
+  - section_id: What is Proagenci?
+    title: Who are we?
+    content: >+
+      ### Group of Talents Peoples who work on Ads & Strategy bring your
+      business stand out among the crowd.
+
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 100
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - type: features_section
     title: My services
     subtitle: What I do
@@ -131,33 +158,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - section_id: What is Proagenci?
-    title: Who are we?
-    content: >+
-      ### Group of Talents Peoples who work on Ads & Strategy bring your
-      business stand out among the crowd.
-
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 100
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
 seo:
   title: Home
   description: This is Home Page
