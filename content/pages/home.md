@@ -224,7 +224,7 @@ sections:
       - title: |-
           3rd
           Month
-        subtitle: 'All good, Facebook AI understand your target well.'
+        subtitle: 'All good, Facebook AI understands your target well.'
         title_align: left
         content_align: left
         actions: []
