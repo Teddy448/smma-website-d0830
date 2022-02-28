@@ -84,7 +84,7 @@ sections:
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
     actions:
-      - label: lorem-ipsum
+      - label: Telegram
         url: '#'
         style: link
         has_icon: false
