@@ -71,8 +71,7 @@ sections:
         media_width: fifty
         align: left
         title: "\U0001F4C6Workshop & Consultancy"
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
