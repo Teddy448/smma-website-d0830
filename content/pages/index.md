@@ -30,7 +30,7 @@ sections:
     features:
       - title: Paid Advertising
         content: |
-          Bring your business to shown up in front of your ideal target audience using ads ( Facebook, Instagram, Tik Tok, etc)
+          Bring your business to shown up in front of your ideal target audience using facebook ads ( Facebook, Instagram, Tik Tok, etc)
         actions:
           - url: '#'
             style: primary
