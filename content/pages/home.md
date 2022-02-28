@@ -81,7 +81,7 @@ sections:
     background_image_position: center center
     type: features_section
     background_image: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
-  - section_id: lorem-ipsum
+  - section_id: Calltoaction
     title: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
