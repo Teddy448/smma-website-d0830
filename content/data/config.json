@@ -41,7 +41,6 @@
         "title": "Header "
     },
     "footer": {
-        "logo": "/images/Logo  copy.png",
         "logo_alt": "Personal logo",
         "has_primary_nav": false,
         "primary_nav_links": [
