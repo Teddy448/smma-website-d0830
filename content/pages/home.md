@@ -208,7 +208,7 @@ sections:
       - title: |-
           2nd
           Month
-        subtitle: lorem-ipsum
+        subtitle: 'Way Better, Ads start going well. Check and fix mistake for improving.'
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
