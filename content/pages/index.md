@@ -46,7 +46,7 @@ sections:
         media_width: thirty-three
       - title: Social Media Branding
         content: >
-          Full branding service to help you stand out amongst the crowd 
+          Fully branding service to help you stand out amongst the crowd 
         actions:
           - label: Learn More
             url: /faq
