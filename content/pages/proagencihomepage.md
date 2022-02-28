@@ -20,6 +20,7 @@ sections:
     has_border: true
     title: WELCOME TO PROAGENCI.
     align: left
+    style: primary
     content: |+
       we are professional teams, let us do the work for you.
 
