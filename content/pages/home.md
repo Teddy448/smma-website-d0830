@@ -60,7 +60,7 @@ sections:
       - title: |-
           Social Media
           Branding
-        subtitle: lorem-ipsum
+        subtitle: Full branding service to help you stand out amongst the crowd
         actions: []
         image_alt: lorem-ipsum
         media_position: top
