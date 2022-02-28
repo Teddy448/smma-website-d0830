@@ -71,7 +71,9 @@ sections:
     type: features_section
     background_image: /images/about.jpg
 seo:
-  title: home
+  title: |-
+    smma-website-d0830.stackbit.app
+    /home/
   description: This is Home Page
   extra:
     - name: 'og:type'
