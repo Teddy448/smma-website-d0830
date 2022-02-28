@@ -47,7 +47,7 @@ sections:
       - title: Social Media Branding
         content: >
           Get full control of your business, We take care of Design, Marketing
-          Strategy, Social Media Ads, and so on.
+          Strategy, Social Media Ads, and so on. 
         actions:
           - label: Learn More
             url: /faq
