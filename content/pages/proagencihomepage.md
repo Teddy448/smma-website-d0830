@@ -49,12 +49,12 @@ sections:
     subtitle: What i do for you.
     features:
       - title: Paid Advertising
-        content: >
+        content: |
           Bring your business to show up
 
+          in front of your ideal target audience using ads
 
-          in front of your ideal target audience using ads ( Facebook,
-          Instagram, Tik Tok, etc )
+          ( Facebook, Instagram, Tik Tok, etc )
         actions: []
         image_alt: lorem-ipsum
         media_position: right
