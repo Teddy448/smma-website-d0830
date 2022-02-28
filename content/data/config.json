@@ -35,16 +35,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "url": "/blogs"
-            },
-            {
-                "label": "What is Proagenci?",
-                "url": "#What is Proagenci?",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": false,
