@@ -212,7 +212,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F431‍\U0001F3CDFast & Effectively"
-        subtitle: lorem-ipsum
+        subtitle: We prepare everything you need for your tax return
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
