@@ -127,7 +127,7 @@ sections:
 
       *We can help you scale it with social media advertising.*
 
-  - section_id: lorem-ipsum
+  - section_id: WhyProagenci?
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
