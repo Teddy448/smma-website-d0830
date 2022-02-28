@@ -27,8 +27,13 @@ sections:
   - section_id: What is Proagenci?
     title: Who are we?
     content: >+
-      ### Group of Talents Peoples who work on Ads & Strategy bring your
-      business stand out among the crowd.
+      # Proagenci.
+
+
+      Group of Talents Peoples who work on Ads & Strategy bring your business
+      stand out among the crowd.
+
+
 
     actions:
       - label: lorem-ipsum
