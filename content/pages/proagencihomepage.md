@@ -35,14 +35,7 @@ sections:
 
 
 
-    actions:
-      - style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        label: go next!!
+    actions: []
     actions_position: bottom
     actions_width: fourty
     align: left
