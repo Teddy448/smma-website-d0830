@@ -37,7 +37,7 @@
                 "url": "/blogs"
             }
         ],
-        "has_secondary_nav": false,
+        "has_secondary_nav": true,
         "title": "Header ",
         "secondary_nav_links": []
     },
