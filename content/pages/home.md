@@ -132,7 +132,7 @@ sections:
     subtitle: Best Agency in town..
     features:
       - title: Save Time & Money
-        subtitle: We prepare everything you need for your tax return
+        subtitle: We prepare everything you need for your tax return.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
