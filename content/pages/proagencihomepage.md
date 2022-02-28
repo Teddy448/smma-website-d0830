@@ -1,7 +1,7 @@
 ---
 title: Proagenci
 sections:
-  - type: hero_section 
+  - type: hero_section
     subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
       - label: Contact Me
@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 100
     section_id: Proagenci
     has_border: true
-    title: WELCOME TO PROAGENCI.
+    title: WELCOME TO vPROAGENCI.
     align: left
     content: |+
       we are professional teams, let us do the work for you.
