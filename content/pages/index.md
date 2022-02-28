@@ -22,7 +22,6 @@ sections:
     title: WELCOME TO PROAGENCI.
     action: 
         style: Primary
-        
     background_image_size: cover
     align: left
   - type: features_section
