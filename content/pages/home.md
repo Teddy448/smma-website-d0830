@@ -139,7 +139,7 @@ sections:
         media_width: fifty
         align: left
       - title: Fast & Effectively
-        subtitle: lorem-ipsum
+        subtitle: Sell More
         actions: []
         image_alt: lorem-ipsum
         media_position: top
