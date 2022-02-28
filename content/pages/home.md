@@ -64,7 +64,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: small
-    has_border: true
+    has_border: false
     background_color: secondary
     background_image_opacity: 10
     background_image_position: center center
