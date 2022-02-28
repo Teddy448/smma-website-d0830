@@ -71,7 +71,7 @@ sections:
     type: features_section
     background_image: /images/about.jpg
 seo:
-  title: Proagencihome
+  title: home
   description: This is Home Page
   extra:
     - name: 'og:type'
