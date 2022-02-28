@@ -85,7 +85,7 @@ sections:
     title: 'Growth with Us, Start Now...'
     actions:
       - label: Telegram
-        url: '#'
+        url: '#https://t.me/teddykheav'
         style: primary
         has_icon: false
         icon: arrow-left
