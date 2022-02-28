@@ -49,7 +49,7 @@ sections:
     subtitle: What i do for you.
     features:
       - title: Paid Advertising
-        subtitle: lorem-ipsum
+        subtitle: Run ads for your business.
         content: >
           Bring your business to shown up in front of your ideal target audience
           using ads ( Facebook, Instagram, Tik Tok, etc )
