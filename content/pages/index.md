@@ -60,7 +60,7 @@ sections:
         media_width: thirty-three
       - title: Workshop & Consultancy
         content: |+
-          Get a private full digital growth session for your team
+          
 
         actions:
           - label: Learn More
