@@ -131,7 +131,7 @@ sections:
     title: Why ProAGenci is your choice?
     subtitle: Best Agency in town..
     features:
-      - title: lorem-ipsum
+      - title: Save Time & Money
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
