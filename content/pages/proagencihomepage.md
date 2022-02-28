@@ -25,7 +25,7 @@ sections:
 
     background_image_size: cover
   - section_id: lorem-ipsum
-    title: Who are we
+    title: Who are we?
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
