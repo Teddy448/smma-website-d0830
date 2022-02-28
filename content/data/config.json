@@ -12,16 +12,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Home ",
-                "style": "secondary",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "url": "/"
-            },
-            {
                 "label": "About Us",
                 "url": "/about",
                 "style": "link"
