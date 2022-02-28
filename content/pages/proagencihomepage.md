@@ -21,7 +21,7 @@ sections:
     title: WELCOME TO PROAGENCI.
     align: left
     content: |+
-       
+      we are professional teams, let us do the work for you.
 
     background_image_size: cover
   - type: features_section
