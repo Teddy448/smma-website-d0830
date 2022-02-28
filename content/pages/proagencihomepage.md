@@ -132,7 +132,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - section_id: What is Proagenci?
-    title: Who are
+    title: Who are we?
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
