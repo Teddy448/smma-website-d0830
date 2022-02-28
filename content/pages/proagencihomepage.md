@@ -113,7 +113,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    section_id: myservices
+    section_id: Myservices
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
