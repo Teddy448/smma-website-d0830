@@ -15,7 +15,7 @@ sections:
     padding_bottom: none
     background_color: secondary
     background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
-    background_image_opacity: 50
+    background_image_opacity: 20
     section_id: Proagencihome
     has_border: true
     title: WELCOME TO PROAGENCI.
