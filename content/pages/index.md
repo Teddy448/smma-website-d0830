@@ -46,7 +46,7 @@ sections:
         media_width: thirty-three
       - title: Social Media Branding
         content: >
-          Fully service to help your service 
+          Fully service to help your branding 
         actions:
           - label: Learn More
             url: /faq
