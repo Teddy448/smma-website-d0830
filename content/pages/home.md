@@ -129,7 +129,7 @@ sections:
 
   - section_id: WhyProagenci?
     title: Why ProAGenci is your choice?
-    subtitle: Best Agenci in town
+    subtitle: Best Agency in town
     features: []
     feature_padding_vert: medium
     align: center
