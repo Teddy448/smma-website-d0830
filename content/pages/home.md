@@ -83,6 +83,6 @@ sections:
     background_image_opacity: 10
     background_image_position: center center
     type: features_section
-    background_image: /images/about.jpg
+    background_image: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
 layout: advanced
 ---
