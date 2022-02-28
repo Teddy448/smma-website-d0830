@@ -84,7 +84,7 @@ sections:
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
     actions:
-      - label: Telegram
+      - label: "\U0001F44B Telegram"
         url: '#https://t.me/teddykheav'
         style: primary
         has_icon: false
