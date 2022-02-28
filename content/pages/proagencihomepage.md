@@ -45,7 +45,7 @@ sections:
     type: cta_section
     background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Service
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
