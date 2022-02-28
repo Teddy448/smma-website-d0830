@@ -187,7 +187,9 @@ sections:
     subtitle: Here is our roadmap plan for our clients.
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: |-
+          1st
+          Month
         subtitle: lorem-ipsum
         title_align: left
         content: >-
