@@ -224,7 +224,7 @@ sections:
       - title: |-
           3rd
           Month
-        subtitle: lorem-ipsum
+        subtitle: 'All good, Facebook AI understand your target well.'
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
