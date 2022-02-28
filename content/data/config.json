@@ -39,18 +39,7 @@
         ],
         "has_secondary_nav": false,
         "title": "Header ",
-        "secondary_nav_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "secondary_nav_links": []
     },
     "footer": {
         "logo_alt": "Personal logo",
