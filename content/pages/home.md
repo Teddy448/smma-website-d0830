@@ -57,7 +57,9 @@ sections:
           Bring your business to show up
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
-      - title: lorem-ipsum
+      - title: |-
+          Social Media
+          Branding
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
