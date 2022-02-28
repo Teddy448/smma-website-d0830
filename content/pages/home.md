@@ -249,19 +249,5 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - actions: []
-    actions_position: bottom
-    actions_width: sixty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: none
-    background_image_opacity: 100
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
-    background_image: /images/Proagenci (1).png
-    background_image_size: cover
 layout: advanced
 ---
