@@ -250,7 +250,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     actions: []
     actions_position: bottom
     actions_width: fourty
