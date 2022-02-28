@@ -15,7 +15,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
     background_image: /images/Proagenci.png
-    background_image_opacity: 50
+    background_image_opacity: 100
     section_id: Proagenci
     has_border: true
     title: WELCOME TO PROAGENCI.
