@@ -92,7 +92,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: ' Facebook '
+      - label: "\U0001F4E4 Facebook "
         url: '#'
         style: primary
         has_icon: false
