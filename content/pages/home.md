@@ -148,7 +148,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: lorem-ipsum
+      - title: Sell More
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
