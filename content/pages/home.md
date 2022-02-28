@@ -24,6 +24,7 @@ sections:
       we are professional teams, let us do the work for you.
 
     background_image_size: cover
+    image: /images/Clients Helped-8c18fb96.png
   - section_id: whoarewe
     title: Who are we?
     content: >+
