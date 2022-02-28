@@ -14,7 +14,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
-    background_image: /images/Home page.png
+    background_image: /images/Proagenci.png
     background_image_opacity: 50
     section_id: Proagenci
     has_border: true
