@@ -262,5 +262,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/Proagenci (1).png
+    background_image_size: cover
 layout: advanced
 ---
