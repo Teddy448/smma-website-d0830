@@ -55,7 +55,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
         image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
     feature_padding_vert: medium
     align: center
