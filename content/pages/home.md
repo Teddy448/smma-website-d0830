@@ -101,7 +101,7 @@ sections:
         new_window: false
         no_follow: false
       - label: "\U0001F44B Call Now "
-        url: '#'
+        url: '#09878444850'
         style: link
         has_icon: false
         icon: arrow-left
