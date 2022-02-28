@@ -100,7 +100,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: "\U0001F44B "
+      - label: "\U0001F44B Call Now "
         url: '#'
         style: link
         has_icon: false
