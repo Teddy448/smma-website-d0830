@@ -131,7 +131,7 @@ sections:
     title: Why ProAGenci is your choice?
     subtitle: Best Agency in town..
     features:
-      - title: Save Time & Money
+      - title: "\U0001F4A1Save Time & Money"
         subtitle: We prepare everything you need for your tax return.
         actions: []
         image_alt: lorem-ipsum
