@@ -194,7 +194,7 @@ sections:
           Testing Campaign Month.
 
           Find Which Strategy fit your business and Let's Facebook Collect Ideal
-          customer for us.
+          customers for us.
         title_align: left
         content: >
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
