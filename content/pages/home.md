@@ -12,7 +12,7 @@ sections:
     media_position: right
     media_width: fourty
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: none
     background_color: secondary
     background_image: /images/Proagenci.png
     background_image_opacity: 100
