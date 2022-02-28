@@ -251,7 +251,7 @@ sections:
     type: grid_section
   - actions: []
     actions_position: bottom
-    actions_width: fourty
+    actions_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
