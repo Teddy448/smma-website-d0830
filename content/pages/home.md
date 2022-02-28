@@ -82,7 +82,7 @@ sections:
     type: features_section
     background_image: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
   - section_id: Calltoaction
-    title: 'Growth with sUs, '
+    title: 'Growth with Us, '
     actions: []
     actions_position: bottom
     actions_width: fourty
