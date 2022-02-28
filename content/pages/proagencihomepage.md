@@ -43,6 +43,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+        label: go next!!
     actions_position: bottom
     actions_width: fourty
     align: left
