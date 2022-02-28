@@ -23,6 +23,7 @@ sections:
     content: |+
       did you know many business owners fail ...
 
+    background_image_size: cover
   - type: features_section
     title: My services
     subtitle: What I do
