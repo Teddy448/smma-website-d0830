@@ -97,11 +97,13 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     content: |+
-      ``
+      ```
+      Let us manage your ads, You've worked hard to build your business. 
+      ```
 
-      ``
-
-      ### ``
+      ```
+      We can help you scale it with social media advertising.
+      ```
 
 layout: advanced
 ---
