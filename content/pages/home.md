@@ -166,7 +166,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F4A1Save Time & Money"
-        subtitle: We prepare everything you need for your tax return
+        subtitle: We prepare everything you need for your tax return.
         title_align: left
         content: >
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
