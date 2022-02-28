@@ -64,7 +64,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - subtitle: Get a private full digital growth session for your team
+      - subtitle: Get a private full digital growth session for your team.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
