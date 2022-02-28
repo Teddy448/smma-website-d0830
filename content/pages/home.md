@@ -128,7 +128,7 @@ sections:
       *We can help you scale it with social media advertising.*
 
   - section_id: WhyProagenci?
-    title: Why
+    title: Why ProAGenci is your choice?
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
