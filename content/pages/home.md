@@ -10,7 +10,7 @@ sections:
         new_window: true
         has_icon: true
     media_position: right
-    media_width: sixty
+    media_width: fourty
     padding_top: medium
     padding_bottom: large
     background_color: secondary
