@@ -20,6 +20,7 @@ sections:
     section_id: Proagenci
     has_border: true
     title: WELCOME TO PROAGENCI.
+    
     background_image_size: cover
     align: left
   - type: features_section
