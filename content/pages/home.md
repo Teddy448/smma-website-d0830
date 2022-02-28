@@ -196,7 +196,7 @@ sections:
           Find Which Strategy fit your business and Let's Facebook Collect Ideal
           customer for us.
         title_align: left
-        content: >-
+        content: >
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
           pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
