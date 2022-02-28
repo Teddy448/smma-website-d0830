@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 20
     section_id: Proagenci
     has_border: true
-    title: WELCOME TO "red" PROAGENCI.
+    title: WELCOME TO style="color:blue" PROAGENCI.
     background_image_size: cover
     align: left
   - type: features_section
