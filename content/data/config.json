@@ -2,7 +2,7 @@
     "title": "proagenci",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "minimal",
+    "style": "bold",
     "palette": "blue",
     "mode": "dark",
     "base_font": "sans-serif",
