@@ -57,9 +57,7 @@ sections:
           Bring your business to show up
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
-      - title: |-
-          Social Media
-          Branding
+      - title: "\U0001F3AFSocial Media\nBranding"
         subtitle: Full branding service to help you stand out amongst the crowd
         actions: []
         image_alt: lorem-ipsum
