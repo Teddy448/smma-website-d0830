@@ -36,8 +36,7 @@ sections:
 
 
     actions:
-      - label: Myservices
-        url: '#Myservices'
+      - url: '#Myservices'
         style: secondary
         has_icon: false
         icon: arrow-left
