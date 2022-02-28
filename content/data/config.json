@@ -7,7 +7,6 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "logo": "/images/Untitled design (1).png",
         "logo_alt": "Proagencihome",
         "has_primary_nav": false,
         "primary_nav_links": [
