@@ -48,9 +48,7 @@ sections:
     title: Our Service
     subtitle: What i do for you.
     features:
-      - title: >-
-          Bring your business to shown up in front of your ideal target audience
-          using ads ( Facebook, Instagram, Tik Tok, etc )
+      - title: Paid Advertising
         subtitle: lorem-ipsum
         content: >
           Bring your business to shown up in front of your ideal target audience
