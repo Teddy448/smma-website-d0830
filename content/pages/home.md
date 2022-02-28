@@ -102,7 +102,7 @@ sections:
         no_follow: false
       - label: "\U0001F44B Call Now "
         url: '#09878444850'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
