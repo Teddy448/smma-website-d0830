@@ -16,7 +16,7 @@ sections:
     background_color: secondary
     background_image: /images/Proagenci.png
     background_image_opacity: 100
-    section_id: Proagenci
+    section_id: Proagencihome
     has_border: true
     title: WELCOME TO PROAGENCI.
     align: left
