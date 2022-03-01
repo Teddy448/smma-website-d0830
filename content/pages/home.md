@@ -251,7 +251,7 @@ sections:
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
-    title: 'We '
+    title: 'We offer '
     subtitle: TRY IT NOW!
     actions: []
     grid_items: []
