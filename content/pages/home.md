@@ -319,7 +319,6 @@ sections:
     title: Have A General Inquiry?
 layout: advanced
 seo:
-  title: Homepage
   description: THis is homepage
   robots: []
   extra: []
