@@ -262,7 +262,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image_alt: lorem-ipsum
-        image_position: bottom
+        image_position: top
         image_align: left
         image_has_padding: false
         image: /images/160992035_215617100037309_2130210439709428778_n.jpg
