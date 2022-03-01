@@ -320,7 +320,7 @@ sections:
 layout: advanced
 seo:
   title: Homepage
-  description: ''
+  description: THis is homepage
   robots: []
   extra: []
 ---
