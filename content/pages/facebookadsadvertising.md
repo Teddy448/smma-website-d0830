@@ -1,7 +1,7 @@
 ---
 title: Proagenci
 seo:
-  title: Proagencihome
+  title: home
   description: ''
   robots:
     - all
