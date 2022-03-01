@@ -251,7 +251,7 @@ sections:
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
-    title: 'We offer 50% of AGenci Fee '
+    title: 'Paid Us 50% first '
     subtitle: TRY IT NOW!
     actions: []
     grid_items: []
