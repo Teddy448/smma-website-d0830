@@ -287,7 +287,7 @@ sections:
         image_has_padding: false
         title: How do I help my clients grow?
         image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
-      - title: lorem-ipsum
+      - title: Have A General Inquiry?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
