@@ -319,7 +319,7 @@ sections:
     title: Have A General Inquiry?
 layout: advanced
 seo:
-  title: Favicon
+  title: Homepage
   description: ''
   robots: []
   extra: []
