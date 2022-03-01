@@ -274,8 +274,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/160992035_215617100037309_2130210439709428778_n.jpg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
