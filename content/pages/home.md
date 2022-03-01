@@ -260,7 +260,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        actions_width: auto
+        actions_width: full-width
         image_alt: lorem-ipsum
         image_position: bottom
         image_align: left
