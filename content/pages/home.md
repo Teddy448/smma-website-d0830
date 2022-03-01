@@ -252,7 +252,7 @@ sections:
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: TRY IT NOW
+    subtitle: TRY IT NOW!
     actions: []
     grid_items: []
     grid_cols: three
