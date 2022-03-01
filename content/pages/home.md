@@ -285,9 +285,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: >-
-          "How My Agency Is Helping 'New Breed' Info Product & Ecommerce
-          Businesses Scale Aggressively"
+        title: '"How My Agency Is Helping ''New Breed'''
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
