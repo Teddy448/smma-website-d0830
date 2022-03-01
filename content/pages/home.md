@@ -321,4 +321,5 @@ seo:
   description: THis is homepage
   robots: []
   extra: []
+title: Home
 ---
