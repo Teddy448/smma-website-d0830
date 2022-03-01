@@ -259,7 +259,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: BOOK NOW!!!
+          - label: BOOK NOW !!!
             url: '#'
             style: primary
             has_icon: false
