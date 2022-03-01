@@ -250,7 +250,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
-  - title: lorem-ipsum
+  - title: Meet the TEAMs!
     actions: []
     actions_position: bottom
     actions_width: fourty
