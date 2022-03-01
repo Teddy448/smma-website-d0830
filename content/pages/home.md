@@ -253,7 +253,7 @@ sections:
   - title: Meet the TEAMs!
     actions: []
     actions_width: fourty
-    align: right
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
