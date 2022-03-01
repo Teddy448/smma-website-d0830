@@ -285,7 +285,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: How I help my clients grow?
+        title: How do I help my clients grow?
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
