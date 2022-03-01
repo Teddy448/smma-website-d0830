@@ -255,7 +255,7 @@ sections:
     actions: []
     grid_items:
       - title: Free 15 Minute Demo Call
-        subtitle: lorem-ipsum
+        subtitle: SCHEDULE YOUR CALL WITH DANY
         title_align: left
         content_align: left
         actions: []
