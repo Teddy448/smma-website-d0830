@@ -285,7 +285,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: Watch Free Case Study for Busi
+        title: FREE CASE STUDY
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
