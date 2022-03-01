@@ -252,7 +252,6 @@ sections:
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - title: Meet the TEAMs!
     actions: []
-    actions_position: bottom
     actions_width: fourty
     align: right
     padding_top: medium
