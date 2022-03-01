@@ -9,7 +9,8 @@
     "header": {
         "logo_alt": "Homepage",
         "has_primary_nav": true,
-        "primary_nav_links": [
+        "primary_nav_links": [smma-website-d0830.stackbit.app
+/home/
             {
                 "label": "About Us",
                 "url": "/about",
