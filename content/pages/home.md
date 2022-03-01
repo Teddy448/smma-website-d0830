@@ -254,7 +254,7 @@ sections:
     subtitle: TRY IT NOW!
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Free 15 Minute
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
