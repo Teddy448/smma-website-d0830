@@ -290,7 +290,7 @@ sections:
       - title: Have A General Inquiry?
         subtitle: >-
           If you have a general inquiry and would like to speak to our expert
-          team
+          team.
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
