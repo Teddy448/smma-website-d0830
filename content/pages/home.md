@@ -288,7 +288,9 @@ sections:
         title: How do I help my clients grow?
         image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
       - title: Have A General Inquiry?
-        subtitle: lorem-ipsum
+        subtitle: >-
+          If you have a general inquiry and would like to speak to our expert
+          team
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
