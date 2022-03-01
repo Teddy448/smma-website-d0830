@@ -255,7 +255,7 @@ sections:
     actions: []
     grid_items:
       - title: Free 15 Minute Demo Call
-        subtitle: SCHEDULE YOUR CALL WITH DANY
+        subtitle: SCHEDULE YOUR CALL WITH TEDDY.
         title_align: left
         content_align: left
         actions: []
