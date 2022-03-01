@@ -268,6 +268,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: Free Case study about business.
+    title: Have A General Inquiry?
 layout: advanced
 ---
