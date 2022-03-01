@@ -266,6 +266,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/160992035_215617100037309_2130210439709428778_n.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
