@@ -251,7 +251,7 @@ sections:
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
-    title: 'Paid Us 50% for first '
+    title: 'Paid Us 50% for first month, if you don''t satisfy '
     subtitle: TRY IT NOW!
     actions: []
     grid_items: []
