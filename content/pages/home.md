@@ -283,21 +283,6 @@ sections:
         image_has_padding: false
         title: How do I help my clients grow?
         image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
-      - title: Have A General Inquiry?
-        subtitle: >-
-          If you have a general inquiry and would like to speak to our expert
-          team.
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Screenshot 2022-02-15 160053.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
