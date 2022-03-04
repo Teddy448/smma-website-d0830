@@ -9,6 +9,7 @@ sections:
         new_window: true
         has_icon: true
         icon: facebook
+        icon_position: left
     media_position: right
     media_width: fourty
     padding_top: none
