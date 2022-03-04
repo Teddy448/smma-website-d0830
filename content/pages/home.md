@@ -8,6 +8,7 @@ sections:
         style: primary
         new_window: true
         has_icon: true
+        icon: facebook
     media_position: right
     media_width: fourty
     padding_top: none
