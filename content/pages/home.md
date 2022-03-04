@@ -246,58 +246,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
-  - section_id: lorem-ipsum
-    subtitle: TRY IT NOW!
-    actions: []
-    grid_items:
-      - title: Free 15 Minute Demo Call
-        subtitle: SCHEDULE YOUR CALL WITH TEDDY.
-        title_align: left
-        content_align: left
-        actions:
-          - label: BOOK NOW !!!
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: full-width
-        image_alt: lorem-ipsum
-        image_position: top
-        image_align: left
-        image_has_padding: false
-        image: /images/160992035_215617100037309_2130210439709428778_n.jpg
-      - subtitle: FREE CASE STUDY
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        title: How do I help my clients grow?
-        image: /images/53468970-07b3-4122-a251-06d5d0daffe7.png
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    title: Have A General Inquiry?
 layout: advanced
 seo:
   description: THis is homepage
