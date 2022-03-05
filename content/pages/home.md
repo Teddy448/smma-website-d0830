@@ -147,7 +147,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F431‍\U0001F3CD We are experts"
-        subtitle: We prepare everything you need for your tax return
+        subtitle: 'We spent money '
         title_align: left
         content_align: left
         actions: []
