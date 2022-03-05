@@ -133,9 +133,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F4A1 Our Vision"
-        subtitle: >-
-          Time is money, you can ensure that your team can use  the time to work
-          on other important areas instead
+        subtitle: 'We do care about your brand '
         title_align: left
         content_align: left
         actions: []
