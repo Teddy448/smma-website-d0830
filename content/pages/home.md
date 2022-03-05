@@ -198,7 +198,7 @@ sections:
       - title: |-
           1st
           Month
-        subtitle: 'Learning audience, we '
+        subtitle: 'Learning audience, Our agency rules always spent our first month for '
         title_align: left
         content_align: left
         actions: []
