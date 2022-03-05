@@ -214,9 +214,7 @@ sections:
       - title: |-
           2nd
           Month
-        subtitle: >-
-          Way Better, Ads start going well. Check and fix mistakes for
-          improvement.
+        subtitle: 'We '
         title_align: left
         content_align: left
         actions: []
