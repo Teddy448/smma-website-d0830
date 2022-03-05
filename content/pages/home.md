@@ -161,7 +161,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F4B8Sell More"
-        subtitle: 'we create '
+        subtitle: 'we create & run '
         title_align: left
         content_align: left
         actions: []
