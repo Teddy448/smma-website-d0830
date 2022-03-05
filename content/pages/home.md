@@ -292,7 +292,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: Done For You
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
