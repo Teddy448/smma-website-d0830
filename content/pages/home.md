@@ -256,7 +256,7 @@ sections:
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
     title: What We Do
-    subtitle: lorem-ipsum
+    subtitle: Done For You
     features: []
     feature_padding_vert: medium
     align: center
