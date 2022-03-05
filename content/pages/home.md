@@ -147,7 +147,9 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F431‍\U0001F3CD We are experts"
-        subtitle: 'Tell us your goal, we will reach your goal by our strategy and '
+        subtitle: >-
+          just tell us what you want to achieve, we have the ability to get what
+          you want we are depth knowledge in our area of expertise.
         title_align: left
         content_align: left
         actions: []
