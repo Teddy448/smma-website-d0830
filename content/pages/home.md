@@ -198,11 +198,7 @@ sections:
       - title: |-
           1st
           Month
-        subtitle: >-
-          Testing Campaign Month.
-
-          Find Which Strategy fit your business and Let's Facebook Collect Ideal
-          customers for us.
+        subtitle: learning audience
         title_align: left
         content_align: left
         actions: []
