@@ -280,7 +280,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Done For You
         title_align: left
         content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n"
         content_align: left
