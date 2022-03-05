@@ -256,7 +256,6 @@ sections:
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
     title: What We Do
-    subtitle: Done For You
     features:
       - title: Done For You
         content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n\n\n"
