@@ -26,10 +26,9 @@ sections:
     background_image_position: left center
   - section_id: whoarewe
     title: Who are we?
-    content: >+
-      > ProAgenci is Group of Talents Peoples who work on Ads & Strategy bring
-      your business stand out among the crowd.
-
+    content: >
+      **ProAgenci** is a Group of **Talents Peoples** who work on Ads & Strategy
+      your solution to business expansion.
     actions: []
     actions_position: bottom
     actions_width: fourty
