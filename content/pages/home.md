@@ -57,7 +57,7 @@ sections:
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
       - title: "\U0001F3AFSocial Media\nBranding"
-        subtitle: Full branding service to help you stand out amongst the crowd
+        subtitle: 'Best for who start up business '
         actions: []
         image_alt: lorem-ipsum
         media_position: top
