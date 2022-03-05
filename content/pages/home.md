@@ -255,27 +255,6 @@ sections:
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
-    title: What We Do
-    features:
-      - title: Done For You
-        content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n\n\n"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-  - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
