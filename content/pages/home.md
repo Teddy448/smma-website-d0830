@@ -133,7 +133,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F4A1Save Time & Money"
-        subtitle: We prepare everything you need for your tax return.
+        subtitle: 'Time is money, '
         title_align: left
         content_align: left
         actions: []
