@@ -161,7 +161,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F4B8Sell More"
-        subtitle: 'we create & run '
+        subtitle: We create & run campaigns that sell your product efficiently.
         title_align: left
         content_align: left
         actions: []
