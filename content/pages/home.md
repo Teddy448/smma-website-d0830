@@ -147,7 +147,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F431‍\U0001F3CD We are experts"
-        subtitle: 'We spent money '
+        subtitle: We spent money effectivelya
         title_align: left
         content_align: left
         actions: []
