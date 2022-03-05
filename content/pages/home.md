@@ -198,7 +198,7 @@ sections:
       - title: |-
           1st
           Month
-        subtitle: learning audience
+        subtitle: 'learning audience, '
         title_align: left
         content_align: left
         actions: []
