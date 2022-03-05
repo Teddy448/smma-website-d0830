@@ -198,7 +198,7 @@ sections:
       - title: |-
           1st
           Month
-        subtitle: 'Learning audience, Businesses looking to increase their online sales '
+        subtitle: 'Learning audience, '
         title_align: left
         content_align: left
         actions: []
