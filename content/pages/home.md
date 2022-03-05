@@ -259,7 +259,6 @@ sections:
     subtitle: Done For You
     features:
       - title: Done For You
-        subtitle: lorem-ipsum
         content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n\n\n"
         actions: []
         image_alt: lorem-ipsum
