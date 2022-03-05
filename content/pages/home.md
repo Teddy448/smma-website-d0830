@@ -133,7 +133,9 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F4A1 Save Time"
-        subtitle: 'Time is money, you can ensure that your team can use  '
+        subtitle: >-
+          Time is money, you can ensure that your team can use  the time to work
+          on other important areas instead
         title_align: left
         content_align: left
         actions: []
