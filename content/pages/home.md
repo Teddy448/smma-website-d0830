@@ -198,9 +198,7 @@ sections:
       - title: |-
           1st
           Month
-        subtitle: >-
-          Learning audience, Businesses looking to increase their online sales
-          with a breathtaking return on investment.
+        subtitle: 'Learning audience, Businesses looking to increase their online sales '
         title_align: left
         content_align: left
         actions: []
