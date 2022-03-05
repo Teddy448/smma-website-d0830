@@ -214,7 +214,7 @@ sections:
       - title: |-
           2nd
           Month
-        subtitle: 'We start '
+        subtitle: 'We start generate sales '
         title_align: left
         content_align: left
         actions: []
