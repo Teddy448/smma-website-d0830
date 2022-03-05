@@ -161,7 +161,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F4B8Sell More"
-        subtitle: We prepare everything you need for your tax return.
+        subtitle: 'we create '
         title_align: left
         content_align: left
         actions: []
