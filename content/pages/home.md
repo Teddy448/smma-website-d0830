@@ -214,7 +214,7 @@ sections:
       - title: |-
           2nd
           Month
-        subtitle: 'We start using Funnel to generate sales and leads. '
+        subtitle: 'We start using Funnel to generate sales and leads.  '
         title_align: left
         content_align: left
         actions: []
