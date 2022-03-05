@@ -147,7 +147,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F431‍\U0001F3CD We are experts"
-        subtitle: 'Tell us your goal, we can '
+        subtitle: 'Tell us your goal, we '
         title_align: left
         content_align: left
         actions: []
