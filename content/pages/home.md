@@ -149,7 +149,7 @@ sections:
       - title: "\U0001F431‍\U0001F3CD We are experts"
         subtitle: >-
           just tell us what you want to achieve, we have the ability to get it
-          done. we are depth knowledge in our area of expertise.
+          done. Our team are depth knowledge in our area of expertise.
         title_align: left
         content_align: left
         actions: []
