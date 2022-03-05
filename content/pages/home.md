@@ -146,7 +146,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: "\U0001F431‍\U0001F3CD We are experts on "
+      - title: "\U0001F431‍\U0001F3CD We are experts"
         subtitle: We prepare everything you need for your tax return
         title_align: left
         content_align: left
