@@ -132,7 +132,7 @@ sections:
     subtitle: Best Agency in town..
     actions: []
     grid_items:
-      - title: "\U0001F4A1 Save Time"
+      - title: "\U0001F4A1 Our Vision"
         subtitle: >-
           Time is money, you can ensure that your team can use  the time to work
           on other important areas instead
