@@ -161,7 +161,10 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F4B8Sell More"
-        subtitle: 'We create & run campaigns that sell your product efficiently. '
+        subtitle: >-
+          We create & run campaigns that sell your product efficiently. Agencies
+          are running campaigns day in and day out for multiple clients, and as
+          you know practice makes perfect.
         title_align: left
         content_align: left
         actions: []
