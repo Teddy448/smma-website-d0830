@@ -57,7 +57,6 @@ sections:
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
       - title: "\U0001F3AFSocial Media\nBranding"
-        subtitle: 'Best for who satart up business '
         actions: []
         image_alt: lorem-ipsum
         media_position: top
