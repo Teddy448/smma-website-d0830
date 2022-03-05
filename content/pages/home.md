@@ -199,8 +199,8 @@ sections:
           1st
           Month
         subtitle: >-
-          Learning audience, Our agency rules always spent our first month for
-          collect & utilize data & scale campaign.
+          Study audience, Our agency rules always spent our first month for
+          collect & utilizing data & scale campaigns next month.
         title_align: left
         content_align: left
         actions: []
