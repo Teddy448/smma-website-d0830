@@ -281,7 +281,6 @@ sections:
     actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
