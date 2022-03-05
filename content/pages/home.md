@@ -132,7 +132,7 @@ sections:
     subtitle: Best Agency in town..
     actions: []
     grid_items:
-      - title: "\U0001F4A1Save Time & Money"
+      - title: "\U0001F4A1 Save Time"
         subtitle: 'Time is money, '
         title_align: left
         content_align: left
