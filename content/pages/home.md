@@ -238,7 +238,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: '10x Reture on ads spent & Scale '
+        subtitle: 10x Reture on ads spent & start busineses expansion
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
