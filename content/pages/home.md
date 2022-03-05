@@ -133,7 +133,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F4A1 Our Vision"
-        subtitle: 'We do care about your brand '
+        subtitle: 'We do care about your brand, treat it '
         title_align: left
         content_align: left
         actions: []
