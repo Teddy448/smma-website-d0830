@@ -38,7 +38,18 @@
         ],
         "has_secondary_nav": true,
         "title": "Home",
-        "secondary_nav_links": [],
+        "secondary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "logo": "/images/Untitled design (1).png"
     },
     "footer": {
