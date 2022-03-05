@@ -214,7 +214,7 @@ sections:
       - title: |-
           2nd
           Month
-        subtitle: 'We '
+        subtitle: 'We start '
         title_align: left
         content_align: left
         actions: []
