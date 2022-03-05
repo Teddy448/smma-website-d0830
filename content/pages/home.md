@@ -255,7 +255,7 @@ sections:
     type: grid_section
     background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: What We Do
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
