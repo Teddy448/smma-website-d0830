@@ -66,7 +66,7 @@ sections:
           (Best Recommend) to who just start-up the business and don't know how
           to start to do marketing. We provide full service to help you (Artwork
           Design, Content Marketing & Paid Advertising).
-      - subtitle: 'Get a private '
+      - subtitle: 'Get a private marketing strategy for '
         actions: []
         image_alt: lorem-ipsum
         media_position: top
