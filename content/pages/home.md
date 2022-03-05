@@ -134,9 +134,9 @@ sections:
     grid_items:
       - title: "\U0001F4A1 Our Vision"
         subtitle: >-
-          We do care about your brand, treat it like our own.The recommendations
-          we make to our clients are the recommendations we would make if we
-          owned their companies
+          We do care about your brand, treat it like our own. The
+          recommendations we make to our clients are the recommendations we
+          would make if we owned their companies.
         title_align: left
         content_align: left
         actions: []
