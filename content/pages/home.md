@@ -303,7 +303,7 @@ sections:
       *We can help you scale it with social media advertising.*
 
     actions:
-      - label: "\U0001F449Telegram"
+      - label: "\U0001F449\U0001F618Telegram"
         url: '#'
         style: link
         has_icon: false
