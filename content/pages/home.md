@@ -296,7 +296,7 @@ sections:
     subtitle: we take care of everything A-Z
     grid_cols: two
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 'Growth with Us, Start Now...'
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
