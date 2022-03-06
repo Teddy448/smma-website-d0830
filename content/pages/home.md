@@ -324,7 +324,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: medium
-    has_border: true
+    has_border: false
     background_color: none
     background_image_opacity: 0
     background_image_size: cover
