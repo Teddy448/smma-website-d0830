@@ -319,14 +319,6 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: Call Now
-        url: 0978444850
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     actions_position: bottom
     actions_width: fourty
     align: left
