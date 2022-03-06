@@ -71,13 +71,13 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
                 "style": "link"
             },
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "label": "Style Guide",
+                "url": "/style-guide",
                 "style": "link"
             }
         ],
