@@ -362,7 +362,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Legal
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
