@@ -270,18 +270,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: OUR VISION
-        title_align: left
-        content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
