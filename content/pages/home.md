@@ -101,14 +101,6 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: "\U0001F44B Call Now "
-        url: '#09878444850'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     actions_position: bottom
     actions_width: fourty
     align: center
