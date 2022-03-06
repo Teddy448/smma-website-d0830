@@ -58,7 +58,8 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "link",
+                "icon_position": "center"
             },
             {
                 "label": "FAQ",
