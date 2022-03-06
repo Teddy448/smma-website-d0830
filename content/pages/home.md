@@ -311,7 +311,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: 'https://t.me/teddykheav'
+      - label: "\U0001F44B Facebook"
         url: '#'
         style: link
         has_icon: false
