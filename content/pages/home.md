@@ -304,7 +304,7 @@ sections:
 
     actions:
       - label: "\U0001F44B Telegram"
-        url: '#'
+        url: '#https://t.me/teddykheav'
         style: link
         has_icon: false
         icon: arrow-left
