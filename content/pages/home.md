@@ -334,6 +334,19 @@ sections:
         new_window: false
         no_follow: false
     grid_items:
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Untitled design (1)-eaf9ccec.png
       - title: Company
         title_align: left
         content_align: left
@@ -372,19 +385,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Untitled design (1)-eaf9ccec.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
