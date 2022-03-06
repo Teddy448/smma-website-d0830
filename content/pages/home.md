@@ -269,8 +269,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
