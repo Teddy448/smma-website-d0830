@@ -111,7 +111,8 @@
                 "no_follow": false
             }
         ],
-        "content": "&copy;Proagenci, All rights reserved. "
+        "content": "&copy;Proagenci, All rights reserved. ",
+        "logo": "/images/Untitled design (1)-eaf9ccec.png"
     },
     "announcement": {
         "has_anncmnt": false,
