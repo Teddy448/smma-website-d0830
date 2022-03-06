@@ -349,7 +349,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: About
             url: '#'
             style: link
             has_icon: false
