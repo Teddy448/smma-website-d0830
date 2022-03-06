@@ -9,6 +9,7 @@ sections:
         has_icon: true
         icon: facebook
         icon_position: left
+        url: 'https://t.me/teddykheav'
     media_position: right
     media_width: fourty
     padding_top: none
