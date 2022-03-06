@@ -4,7 +4,7 @@ sections:
     subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
       - label: Contact Us Now.
-        style: primary
+        style: secondary
         new_window: true
         has_icon: true
         icon_position: left
