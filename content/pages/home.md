@@ -270,7 +270,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title_align: left
-        content: "\U0001F6AB **We do not create the content for campaigns.**\n\n**\n\U0001F6AB**\_**We do not offer google ads, email marketing, or SEO Optimization.**\n\n**\n\U0001F6AB**\_**We do not offer free trials.**\n"
+        content: "\U0001F6AB**We do not create the content for campaigns.**\n\n\U0001F6AB**We do not offer google ads, email marketing, or SEO Optimization.**\n\n\U0001F6AB**We do not offer free trials.**\n"
         content_align: left
         actions: []
         actions_align: left
