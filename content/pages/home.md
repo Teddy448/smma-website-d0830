@@ -346,7 +346,6 @@ sections:
         no_follow: false
     grid_items:
       - title: Company
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
