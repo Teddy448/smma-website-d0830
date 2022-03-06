@@ -331,6 +331,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: /images/Proagenci.png
 layout: advanced
 seo:
   description: THis is homepage
