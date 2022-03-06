@@ -59,7 +59,8 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link",
-                "icon_position": "center"
+                "icon_position": "center",
+                "has_icon": true
             },
             {
                 "label": "FAQ",
