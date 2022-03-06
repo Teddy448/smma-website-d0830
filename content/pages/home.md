@@ -324,9 +324,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/Proagenci.png
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions:
+  - actions:
       - label: FAQ
         url: '#'
         style: link
