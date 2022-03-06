@@ -303,7 +303,7 @@ sections:
       *We can help you scale it with social media advertising.*
 
     actions:
-      - label: lorem-ipsum
+      - label: Telegram
         url: '#'
         style: link
         has_icon: false
