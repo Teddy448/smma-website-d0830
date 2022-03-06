@@ -258,7 +258,7 @@ sections:
     grid_items:
       - title: Done For You
         title_align: left
-        content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy bi-weekly sales reports.\n\n"
+        content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy the weekly sales reports.\n"
         content_align: left
         actions: []
         actions_align: left
