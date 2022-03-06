@@ -7,7 +7,6 @@ sections:
         style: primary
         new_window: true
         has_icon: true
-        icon: facebook
         icon_position: left
         url: 'https://t.me/teddykheav'
     media_position: right
