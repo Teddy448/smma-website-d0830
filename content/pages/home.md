@@ -313,7 +313,7 @@ sections:
         no_follow: false
       - label: "\U0001F44B Facebook"
         url: 'https://web.facebook.com/proagenci'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
