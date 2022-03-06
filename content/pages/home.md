@@ -314,6 +314,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        title: We Don't
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
