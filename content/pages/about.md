@@ -32,9 +32,9 @@ layout: page
 
 We help you **build brand awareness**, **increase sales** and **customer loyalty.**
 
-*   We create the marketing strategy.
+> We create the marketing strategy.
 
-*   We create the campaign.
+> We create the campaign.
 
-*   We build the brand.
+> We build the brand.
 
