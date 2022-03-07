@@ -30,4 +30,11 @@ layout: page
 ---
 **ProAGenci** is a marketing agency, which helps your business expand.
 
-We help you **build brand awareness**, **increase sales** and **customer royalty.**
+We help you **build brand awareness**, **increase sales** and **customer loyalty.**
+
+*   We create the marketing strategy.
+
+*   We create the campaign.
+
+*   We build the brand.
+
