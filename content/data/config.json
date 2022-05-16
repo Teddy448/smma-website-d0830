@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Home",
-                "url": "",
+                "url": "/home",
                 "style": "Home",
                 "has_icon": false,
                 "icon": "arrow-left",
