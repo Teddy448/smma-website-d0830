@@ -13,7 +13,7 @@
             {
                 "label": "Home",
                 "url": "/home",
-                "style": "link",
+                "style": "Home",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
@@ -47,7 +47,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "title": "Home",
+        "title": "/Home",
         "secondary_nav_links": [],
         "logo": "/images/Untitled design (1).png"
     },
@@ -124,5 +124,5 @@
         "anncmnt_id": "new-features"
     },
     "favicon": "/images/Logo png.png",
-    "domain": "proagencikh.com"
+    "domain": "proagencikh.com/home"
 }

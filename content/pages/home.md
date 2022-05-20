@@ -20,7 +20,6 @@ sections:
     has_border: true
     title: WELCOME TO PROAGENCI.
     align: left
-    image: /images/Clients Helped-8c18fb96.png
     background_image_repeat: no-repeat
     background_image_position: left center
   - section_id: whoarewe
