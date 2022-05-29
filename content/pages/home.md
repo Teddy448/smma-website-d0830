@@ -331,8 +331,7 @@ sections:
     background_image: /images/Proagenci.png
 layout: advanced
 seo:
-  description: THis is homepage
   robots: []
   extra: []
-title: Home
+title: ProAGenci Marketing
 ---
