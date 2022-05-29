@@ -8,7 +8,6 @@ sections:
     subtitle: 'Facebook Ads Tips & Trick #EP1'
     features:
       - type: feature
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
