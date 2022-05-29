@@ -31,7 +31,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: /images/Proagenci.png
   - type: features_section
-    section_id: lorem-ipsum
+    section_id: របៀបផ្សព្វផ្សាយពាណិជ្ចកម្មទៅអ្នកជិតខាង!!
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
