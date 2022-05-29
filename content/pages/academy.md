@@ -16,7 +16,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
     feature_padding_vert: small
