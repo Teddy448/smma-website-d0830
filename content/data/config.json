@@ -62,11 +62,6 @@
                 "style": "link",
                 "icon_position": "center",
                 "has_icon": true
-            },
-            {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
