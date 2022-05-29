@@ -28,7 +28,6 @@ sections:
       ដូច្នេះអស់បារម្ភជាការកសាងយីហោ និង ការលក់ទៀតបន្ទាប់ពីធ្វើការជាមួយពួកយើង!
     subtitle: DEAR BUSINESS OWNER
     image: /images/280414385_131490826145408_8291435943273844586_n.jpg
-    video_embed_html: 'https://www.youtube.com/watch?v=HNCMau-6RcE&t=1s'
   - section_id: whoarewe
     title: Who are we?
     content: >
