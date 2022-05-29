@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     actions:
-      - label: Contact Us Now.
+      - label: Contact Us Now via Telegram.
         style: primary
         new_window: true
         has_icon: true
