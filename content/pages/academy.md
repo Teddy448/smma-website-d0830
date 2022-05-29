@@ -14,7 +14,12 @@ sections:
           ![](https://www.youtube.com/watch?v=8HlQfdr9GSc\&t=1s)
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: 'https://www.youtube.com/watch?v=8HlQfdr9GSc&t=1s'
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/8HlQfdr9GSc" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: top
         media_width: fifty
         align: left
