@@ -23,7 +23,7 @@
             {
                 "type": "action",
                 "label": "Academy",
-                "url": "\n/academy/",
+                "url": "/academy/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
