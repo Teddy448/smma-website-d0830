@@ -45,7 +45,6 @@ sections:
           allowfullscreen></iframe>
         media_position: bottom
         media_width: sixty
-    feature_padding_vert: large
     align: center
     padding_top: medium
     padding_bottom: medium
