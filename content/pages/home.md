@@ -1,7 +1,6 @@
 ---
 sections:
   - type: hero_section
-    subtitle: '"Bring More Customers to our clients through Social Media Advertising."'
     actions:
       - label: Contact Us Now.
         style: primary
