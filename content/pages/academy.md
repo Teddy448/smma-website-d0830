@@ -14,9 +14,7 @@ sections:
           ![](https://www.youtube.com/watch?v=8HlQfdr9GSc\&t=1s)
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        video_embed_html: 'https://www.youtube.com/watch?v=8HlQfdr9GSc&t=1s'
         media_position: top
         media_width: fifty
         align: left
