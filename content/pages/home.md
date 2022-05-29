@@ -22,8 +22,11 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
-    content: |+
-      ជួយដល់ការធ្វើទីផស្ារ
+    content: >+
+      **តើអ្នកកំពុងស្វែកក្រុមអ្នកជំនាញ**
+      ក្នុងការធ្វើទីផ្សារសម្រាប់អាជីវកម្មអ្នកមែនទេ?ក្រុមពួកយើងមានបទពិសោធន៍ច្រើនជាង​២ឆ្នាំក្នុងវិស័យទីផ្សារនេះ
+      ហើយចំណាយលុយច្រើន ១០ មុឺនដុល្លាលើ **Meta** (Facebook និង Instagram)។
+      ដូច្នេះអស់បារម្ភជាការកសាងយីហោ និង ការលក់ទៀតបន្ទាប់ពីធ្វើការជាមួយពួកយើង!
 
   - section_id: whoarewe
     title: Who are we?
