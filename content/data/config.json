@@ -100,5 +100,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "proagencikh.com/home"
+    "domain": "proagencikh.com/home",
+    "favicon": "/images/Proagenci.png"
 }
