@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Telegaram
-        url: '#'
+        url: 'https://t.me/teddykheav'
         style: primary
         has_icon: false
         icon: arrow-left
