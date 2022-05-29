@@ -32,11 +32,6 @@
                 "no_follow": false
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Contact Us",
                 "style": "link",
                 "url": "contactus"
