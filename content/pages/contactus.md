@@ -8,7 +8,7 @@ sections:
     actions:
       - label: 'Facebook '
         url: 'https://web.facebook.com/proagenci'
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
