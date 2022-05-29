@@ -21,11 +21,6 @@
                 "no_follow": false
             },
             {
-                "label": "About Us",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
