@@ -34,7 +34,7 @@ sections:
     background_image_repeat: no-repeat
 seo:
   title: Academy
-  description: ''
+  description: Academy
   robots: []
   extra: []
 ---
