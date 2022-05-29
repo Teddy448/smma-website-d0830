@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 15
     section_id: Proagencihome
     has_border: true
-    title: 'DEAR, BUSINESS OWNER!'
+    title: 'DEAR, BUSINESS OWNER,'
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
