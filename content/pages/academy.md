@@ -35,7 +35,6 @@ sections:
     subtitle: 'Facebook Ads Tips & Trick #EP2'
     features:
       - type: feature
-        title: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
