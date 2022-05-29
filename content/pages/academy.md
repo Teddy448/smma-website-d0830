@@ -8,7 +8,7 @@ sections:
     subtitle: 'Facebook Ads Tips & Trick #EP1'
     features:
       - type: feature
-        title: lorem-ipsum
+        title: បៀបតាមដានពីការធ្វើទីផ្សាររបស់ដៃគូប្រកួតប្រជែង
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
