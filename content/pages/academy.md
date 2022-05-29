@@ -36,7 +36,6 @@ sections:
     features:
       - type: feature
         actions: []
-        image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="1280" height="720"
           src="https://www.youtube.com/embed/IONW5j8uy5s" title="YouTube video
