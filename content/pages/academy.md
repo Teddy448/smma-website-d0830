@@ -4,7 +4,7 @@ title: Academy
 sections:
   - type: features_section
     section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: របៀបតាមដានពីការធ្វើទីផ្សាររបស់ដៃគូប្រកួតប្រជែង
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
