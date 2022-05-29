@@ -22,6 +22,7 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
+    image: /images/proagenci png.png
   - section_id: whoarewe
     title: Who are we?
     content: >
