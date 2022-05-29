@@ -22,6 +22,9 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
+    content: |+
+      ជួយដល់ការធ្វើទីផស្ារ
+
   - section_id: whoarewe
     title: Who are we?
     content: >
