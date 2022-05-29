@@ -2,13 +2,12 @@
 title: Contact Us
 sections:
   - section_id: '02'
-    title: របៀបទំនាក់ទំនងធ្វើការជាមួយពួកយើង៖
     content: |+
-      ###### អរគុណសម្រាប់ការចាប់អារម្មណ ៍ការងារជាមួយក្រុមការងារពួកយើង៖
+      ######
 
     actions:
       - label: 'Facebook '
-        url: '#'
+        url: 'https://web.facebook.com/proagenci'
         style: primary
         has_icon: false
         icon: arrow-left
@@ -16,22 +15,22 @@ sections:
         new_window: false
         no_follow: false
       - label: Telegaram
-        url: '#'
+        url: 'https://t.me/teddykheav'
         style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
         no_follow: false
-      - label: Call With Our Team
-        url: '#0978444850'
+      - label: 'Call: 0978444850'
+        url: 0978444850
         style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
         no_follow: false
-    actions_position: right
+    actions_position: bottom
     align: center
     padding_top: large
     padding_bottom: medium
@@ -42,6 +41,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    title: ' Contact Us for work today....'
 seo:
   title: ''
   description: ''
