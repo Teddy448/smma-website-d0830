@@ -43,7 +43,6 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        media_width: sixty
     padding_top: medium
     has_border: false
     background_color: none
