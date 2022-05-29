@@ -29,6 +29,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    background_image: /images/Proagenci.png
   - type: features_section
     section_id: lorem-ipsum
     title: lorem-ipsum
