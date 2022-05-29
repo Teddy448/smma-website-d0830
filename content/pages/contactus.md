@@ -22,7 +22,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: Call With Our Team
+      - label: 'Call: 0978444850'
         url: 0978444850
         style: primary
         has_icon: false
