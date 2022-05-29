@@ -32,8 +32,7 @@ sections:
     background_image: /images/Proagenci.png
   - type: features_section
     title: របៀបផ្សព្វផ្សាយពាណិជ្ចកម្មទៅអ្នកជិតខាង!!
-    subtitle: |
-      Facebook Ads Tips & Trick #EP1
+    subtitle: 'Facebook Ads Tips & Trick #EP2'
     features:
       - type: feature
         title: lorem-ipsum
