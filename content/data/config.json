@@ -42,7 +42,7 @@
             },
             {
                 "type": "action",
-                "label": "lorem-ipsum",
+                "label": "Academy",
                 "url": "#academy",
                 "style": "link",
                 "has_icon": false,
