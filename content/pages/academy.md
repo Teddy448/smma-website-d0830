@@ -46,7 +46,6 @@ sections:
         media_position: bottom
         media_width: sixty
     padding_top: medium
-    padding_bottom: medium
     has_border: false
     background_color: none
     background_image_opacity: 0
