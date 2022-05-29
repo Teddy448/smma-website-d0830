@@ -1,7 +1,7 @@
 {
     "title": "ProAGenci Marketing ",
     "path_prefix": "/",
-    "layout_type": "full-width",
+    "layout_type": "boxed",
     "style": "bold",
     "palette": "blue",
     "mode": "dark",
@@ -101,5 +101,5 @@
         "anncmnt_id": "new-features"
     },
     "domain": "proagencikh.com/home",
-    "favicon": "/images/proagenci png.png"
+    "favicon": "/images/6.png"
 }
