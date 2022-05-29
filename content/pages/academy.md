@@ -44,6 +44,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         media_position: bottom
+        media_width: sixty
     feature_padding_vert: medium
     align: center
     padding_top: medium
