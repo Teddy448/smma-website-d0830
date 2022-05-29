@@ -31,7 +31,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    actions_position: right
+    actions_position: top
     align: center
     padding_top: large
     padding_bottom: medium
