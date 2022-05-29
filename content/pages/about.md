@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Academy
 seo:
   title: About
   description: This is the about page
