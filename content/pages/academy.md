@@ -10,8 +10,6 @@ sections:
       - type: feature
         title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: |
-          ![](https://www.youtube.com/watch?v=8HlQfdr9GSc\&t=1s)
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
