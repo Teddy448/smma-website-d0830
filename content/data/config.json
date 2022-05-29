@@ -70,11 +70,6 @@
                 "label": "Terms & Conditions",
                 "url": "/terms-conditions",
                 "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
