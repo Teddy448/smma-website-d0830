@@ -7,7 +7,7 @@ sections:
     title: របៀបតាមដានពីការធ្វើទីផ្សាររបស់ដៃគូប្រកួតប្រជែង
     subtitle: 'Facebook Ads Tips & Trick #EP1'
     features: []
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: medium
