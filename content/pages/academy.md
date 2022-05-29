@@ -5,7 +5,7 @@ sections:
   - type: features_section
     section_id: lorem-ipsum
     title: របៀបតាមដានពីការធ្វើទីផ្សាររបស់ដៃគូប្រកួតប្រជែង
-    subtitle: lorem-ipsum
+    subtitle: (Facebook Ads Tips & Trick EP1
     features: []
     feature_padding_vert: medium
     align: center
