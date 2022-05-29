@@ -143,7 +143,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: "\U0001F431‍\U0001F3CD We are experts"
+      - title: ' We are experts'
         subtitle: >-
           just tell us what you want to achieve, we have the ability to get it
           done. Our team is depth knowledge in our area of expertise.
