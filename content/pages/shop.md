@@ -4,7 +4,7 @@ title: Client Shop
 sections:
   - type: hero_section
     section_id: Tech Theory
-    title: lorem-ipsum
+    title: AirPods Pro by TECH THEORY
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
