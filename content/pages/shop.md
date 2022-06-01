@@ -3,7 +3,7 @@ layout: advanced
 title: Client Shop
 sections:
   - type: hero_section
-    section_id: lorem-ipsum
+    section_id: Tech Theory
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
