@@ -172,6 +172,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    background_image: /images/160992035_215617100037309_2130210439709428778_n.jpg
 seo:
   title: ''
   description: ''
