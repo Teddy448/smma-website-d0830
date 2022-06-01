@@ -1,6 +1,6 @@
 ---
 layout: advanced
-title: Client Shop
+title: Tech Theory Shop
 sections:
   - type: hero_section
     section_id: Tech Theory
