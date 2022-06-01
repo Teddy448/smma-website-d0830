@@ -96,7 +96,7 @@ sections:
     actions:
       - type: action
         label: lorem-ipsum
-        url: '#'
+        url: ចាប់អារម្មណ៍ទិញសូមទាក់ទងមកកាន់
         style: link
         has_icon: false
         icon: arrow-left
