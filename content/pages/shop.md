@@ -42,8 +42,12 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fweb.facebook.com%2Ftechtheorykh%2Fvideos%2F1186678232104471%2F&show_text=false&width=560&t=0"
+      width="560" height="314" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
     media_position: top
     media_width: fifty
     align: left
