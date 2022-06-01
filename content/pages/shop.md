@@ -54,16 +54,7 @@ sections:
 
       >
 
-    actions:
-      - type: action
-        label: Facebook Messenger
-        url: m.me/techtheorykh
-        style: primary
-        has_icon: true
-        icon: facebook
-        icon_position: left
-        new_window: false
-        no_follow: false
+    actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       <iframe
