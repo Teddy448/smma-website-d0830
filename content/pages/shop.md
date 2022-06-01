@@ -104,7 +104,7 @@ sections:
         new_window: false
         no_follow: false
       - type: action
-        label: lorem-ipsum
+        label: Facebook Messenger
         url: '#'
         style: link
         has_icon: false
