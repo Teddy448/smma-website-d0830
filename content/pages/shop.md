@@ -103,6 +103,15 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+      - type: action
+        label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     actions_width: fourty
     align: left
