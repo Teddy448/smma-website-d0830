@@ -80,7 +80,7 @@ sections:
       scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
       clipboard-write; encrypted-media; picture-in-picture; web-share"
       allowFullScreen="true"></iframe>
-    media_position: top
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
