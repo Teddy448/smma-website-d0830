@@ -6,39 +6,54 @@ sections:
     section_id: Tech Theory
     title: 'AirPods Pro '
     subtitle: ✔ ភាពងាយស្រួល នឹងទាន់សម័យ!!
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
+    content: >+
+      **នេះជាកាស AirPods Pro ដែលកាសនេះសាកសមបំផុតសម្រាប់៖**
 
 
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
+      > 1/ អ្នកដែលចូលចិត្តធ្វើការនៅទីសាធារណៈ (ហាងកាហ្វេ..)
 
 
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+      > 2/ អ្នកចូលចិត្តភាពស្ងប់ស្ងាត់
 
 
-      In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-      elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam
-      malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis.
-      Vestibulum quis elit magna. Vestibulum accumsan blandit consequat.
-      Phasellus quis posuere quam.
+      > 3/ អ្នកដែលចូលចិត្តធ្វើដំណើរតែម្នាក់ឯង
 
 
-      Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-      ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo
-      euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat
-      et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque
-      lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat
-      efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis
-      ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus
-      ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris,
-      viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus,
-      vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna
-      non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
-      dui. Integer vel convallis justo.
+      > 4/ អ្នកដែលពិបាកស្វែករកខ្លួងឯងក្នុងការផ្តោតលើអ្វីមួយ
+
+
+      > 5/ ជាពិសេសនោះអ្នកដែលធ្វើការបែប Creative (ច្នៃប្រឌិត)
+
+
+      \===================
+
+
+      ****![](https://z-p3-static.xx.fbcdn.net/images/emoji.php/v9/t4b/1/16/1f4dc.png)**មូលហេតុដែលអ្នកគួរមានវា៖**
+
+
+      > 1/ ថ្មកាន់ល្អ ប្រើបានពី​ ១២ម៉ោង (ជាមួយ Backup Case)
+
+
+      > 2/ តភ្ជាប់បានគ្រប់ Device (Window, iPhone, Android, Mac..)-
+      តែមុខងារសំខាន់ៗផ្សេងប្រើបានតែលើប្រភេទ iPhone, Mac ទេ!
+
+
+      > 3/ តូចងាយស្រួលទុកដាក់
+
+
+      > 4/ ប្រសិនបើបាត់ មានមុខងារស្វែងរកតាម Find my លើទូរសព្ទ iPhone អ្នក
+
+
+      > 5/ មុខងារ Noise-Cancelling សម្រាប់ផ្តាច់សំលេងជុំវិញខ្លួនមិនឲ្យលឺ
+
+
+      > 6/ មុខងារ Transparency សម្រាប់ឲ្យសំលេងលឺទាំងចម្រៀងក្នុងកាស
+      និងសំលេងជុំខ្លួនយើងផងដែរ ។ល។
+
+      >
+
+      >
+
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
