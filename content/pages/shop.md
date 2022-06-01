@@ -64,14 +64,6 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - type: action
-        label: Telegram
-        url: 'https://t.me/teddykheav'
-        style: primary
-        has_icon: false
-        icon_position: right
-        new_window: false
-        no_follow: false
     image_alt: lorem-ipsum
     video_embed_html: >-
       <iframe
