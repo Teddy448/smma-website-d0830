@@ -65,7 +65,7 @@ sections:
         new_window: false
         no_follow: false
       - type: action
-        label: lorem-ipsum
+        label: Telegram
         url: 'https://t.me/teddykheav'
         style: link
         has_icon: false
