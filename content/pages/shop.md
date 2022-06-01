@@ -56,7 +56,7 @@ sections:
 
     actions:
       - type: action
-        label: lorem-ipsum
+        label: Facebook
         url: '#'
         style: link
         has_icon: false
