@@ -95,7 +95,7 @@ sections:
     title: ចាប់អារម្មណ៍ទិញសូមទាក់ទងមកកាន់
     actions:
       - type: action
-        label: lorem-ipsum
+        label: Telegram
         url: 'https://t.me/teddykheav'
         style: primary
         has_icon: false
