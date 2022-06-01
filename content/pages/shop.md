@@ -108,7 +108,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    subtitle: 'If you interest '
+    subtitle: If you interest for products detail or buy
 seo:
   title: ''
   description: ''
