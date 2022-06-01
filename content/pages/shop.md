@@ -56,7 +56,7 @@ sections:
 
     actions:
       - type: action
-        label: Facebook
+        label: Facebook Messenger
         url: '#'
         style: primary
         has_icon: false
