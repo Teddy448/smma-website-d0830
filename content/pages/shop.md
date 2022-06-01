@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: Tech Theory
     title: 'AirPods Pro '
-    subtitle: lorem-ipsum
+    subtitle: ✔ ភាពងាយស្រួល នឹងទាន់សម័យ!!
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
