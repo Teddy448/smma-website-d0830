@@ -105,7 +105,7 @@ sections:
         no_follow: false
       - type: action
         label: Facebook Messenger
-        url: '#'
+        url: m.me/
         style: link
         has_icon: false
         icon: arrow-left
