@@ -59,7 +59,7 @@ sections:
         label: Facebook Messenger
         url: m.me/techtheorykh
         style: primary
-        has_icon: false
+        has_icon: true
         icon: facebook
         icon_position: left
         new_window: false
