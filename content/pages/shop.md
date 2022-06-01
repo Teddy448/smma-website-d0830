@@ -61,7 +61,7 @@ sections:
         style: primary
         has_icon: false
         icon: facebook
-        icon_position: right
+        icon_position: left
         new_window: false
         no_follow: false
     image_alt: lorem-ipsum
