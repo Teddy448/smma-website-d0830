@@ -68,6 +68,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        subtitle: កុំព្រួយបារម្មណ៍អី រឿងនេះកើតឡើងគ្រប់ផេកទាំងអស់!
     feature_padding_vert: small
     align: center
     has_border: true
