@@ -50,7 +50,7 @@ sections:
         align: right
         image: /images/feature-2.svg
       - type: feature
-        title: Read Mor
+        title: ក្រុមហ៊ុនហ្វេសបុកបានធ្វើការកំណែទម្រង់កាត់បន្ថយ Reach
         subtitle: lorem-ipsum
         actions:
           - type: action
