@@ -21,7 +21,6 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-        image: /images/feature-3.svg
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: |-
