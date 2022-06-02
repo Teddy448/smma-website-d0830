@@ -52,40 +52,33 @@ sections:
       - type: feature
         title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
+        content: >+
+          តើអ្នកដឹងទេថា? ក្រុមហ៊ុនហ្វេសបុកបានធ្វើការកំណែទម្រង់កាត់បន្ថយ Reach
+          គ្រប់ផេកទាំងអស់ហើយ ផ្លាស់ប្តូមកជា?…
 
 
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
+          កុំព្រួយបារម្មណ៍អី រឿងនេះកើតឡើងគ្រប់ផេកទាំងអស់!
+          កំណែរទម្រង់ថ្មីនេះធ្វើឡើងចុងខែ៤ នេះឯង! ព្រោះពួកគេផ្តោតលើ AI system
+          (បច្ចេកវិទ្យាឆ្លាតវ័យធ្វើការជំនួសមនុស្ស)។
 
+          ជំនួសដោយ ទទួលបានពត័មានថ្មី ពីផេក ដែលពួកគេបាន Following
+          ត្រូវបានជំនួសដោយ Suggest Post ពីផេកដែលពួកគេមិនបាន Following វិញ
+          ក្រោមកត្តា៖ ចំណង់ចំណូលចិត្ត អ្នកប្រើប្រាស់ (វាដឹងច្បាស់ណាស់
+          ថាអ្នកចូលចិត្តអ្វី​ កំពុងត្រូវការអ្វីជាដើម។ល។) ដូច្នេះ
+          វាព្យាយាមណែនាំផុសណា ដែលកំពុងផ្ទុះ ឫល្បី មកកាន់អ្នក
+          គួបផ្សំនឹងចំណូងចំណូលចិត្តអ្នក! 
 
-          ![Placeholder
-          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+          ឧទាហរណ៍៖ មួយរយៈចុងក្រោយនេះ ខ្ញុំចូលចិត្តមើល Anime ពេលដែលខ្ញុំអូស
+          ហ្វេសបុកមកវាលោត Suggest Post តែ Memes ទាក់ទងនឹង Anime ប៉ុណ្ណោះ
+          មិនសូវទទួលបាន​ពត័មានពីផេកដែលខ្ញុំ Following ទេ។ 
 
+          ចឹងដែលក្រុមមនុស្សដែលល្បី ឫ មាតិការដែលល្អៗទាក់ទង មានឱកាសនឹង Go Viral
+          លឿនបំផុត ទោះបីមាន Following តិចក៏ដោយ! ចឹងអ្នកប្រើប្រាស់ផេក និង
+          ម្ចាស់អាជីវកម្មគួរសម្របខ្លួនជាមួយកំណែរទម្រង់ថ្មីមួយនេះ!
 
-          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
-          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
-          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
-          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
-          blandit consequat. Phasellus quis posuere quam.
+          កុំភ្លេច ចុច Like និង Following ពួកយើងដើម្បីទទួលពត័មានថ្មី ពី META
+          បន្តទៀត!
 
-
-          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
-          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
-          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
-          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
-          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
-          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
-          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
-          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
-          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
-          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
-          justo.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
