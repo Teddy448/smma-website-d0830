@@ -20,7 +20,7 @@ sections:
             no_follow: false
         media_position: left
         media_width: fifty
-        align: left
+        align: right
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: |-
