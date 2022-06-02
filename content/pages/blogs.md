@@ -62,7 +62,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
-        align: left
+        align: right
         subtitle: កុំព្រួយបារម្មណ៍អី រឿងនេះកើតឡើងគ្រប់ផេកទាំងអស់!
     feature_padding_vert: small
     align: center
