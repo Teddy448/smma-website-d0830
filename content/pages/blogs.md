@@ -53,7 +53,7 @@ sections:
         title: ក្រុមហ៊ុនហ្វេសបុកបានធ្វើការកំណែទម្រង់កាត់បន្ថយ Reach
         actions:
           - type: action
-            label: lorem-ipsum
+            label: Read More
             url: '#'
             style: link
             has_icon: false
