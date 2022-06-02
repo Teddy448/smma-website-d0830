@@ -50,7 +50,7 @@ sections:
         align: right
         image: /images/feature-2.svg
       - type: feature
-        title: lorem-ipsum
+        title: Read Mor
         subtitle: lorem-ipsum
         actions:
           - type: action
