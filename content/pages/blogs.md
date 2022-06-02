@@ -65,7 +65,7 @@ sections:
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         subtitle: កុំព្រួយបារម្មណ៍អី រឿងនេះកើតឡើងគ្រប់ផេកទាំងអស់!
