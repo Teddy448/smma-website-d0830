@@ -14,7 +14,6 @@ export default class Header extends React.Component {
         this.handleRouteChange = this.handleRouteChange.bind(this);
         this.menuOpenRef = React.createRef();
     }
-
     componentDidMount() {
         window.addEventListener('resize', this.handleWindowResize, true);
         Router.events.on('routeChangeStart', this.handleRouteChange);
@@ -24,7 +23,6 @@ export default class Header extends React.Component {
         window.removeEventListener('resize', this.handleWindowResize, true);
         Router.events.off('routeChangeStart', this.handleRouteChange);
     }
-
     handleWindowResize() {
         const menuOpenElm = _.get(this.menuOpenRef, 'current.offsetParent');
         if (menuOpenElm === null) {
