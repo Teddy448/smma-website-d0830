@@ -26,6 +26,7 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_width: sixty
+    media_position: right
   - section_id: whoarewe
     title: Who are we?
     content: >
