@@ -239,7 +239,7 @@ sections:
       <!-- Calendly inline widget begin -->
 
       <div class="calendly-inline-widget"
-      data-url="https://calendly.com/teddykheav/30min?hide_gdpr_banner=1"
+      data-url="https://calendly.com/teddykheav/30min"
       style="min-width:320px;height:630px;"></div>
 
       <script type="text/javascript"
