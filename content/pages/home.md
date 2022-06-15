@@ -34,7 +34,7 @@ sections:
       your solution to business expansion.
 
 
-      ****![](https://thumbs.dreamstime.com/b/tiktok-instagram-facebook-social-media-video-internet-services-icons-etc-kyiv-ukraine-december-204096150.jpg)
+      \*\*\*\*
     actions: []
     actions_position: bottom
     actions_width: fourty
