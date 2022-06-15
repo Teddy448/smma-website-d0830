@@ -247,7 +247,6 @@ sections:
       async></script>
 
       <!-- Calendly inline widget end -->
-    media_position: left
     padding_bottom: none
     has_border: false
     background_color: primary
