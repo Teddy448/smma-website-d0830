@@ -22,6 +22,21 @@ sections:
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
     media_width: sixty
     media_position: right
+    video_embed_html: >-
+      <!-- Calendly badge widget begin -->
+
+      <link href="https://assets.calendly.com/assets/external/widget.css"
+      rel="stylesheet">
+
+      <script src="https://assets.calendly.com/assets/external/widget.js"
+      type="text/javascript" async></script>
+
+      <script type="text/javascript">window.onload = function() {
+      Calendly.initBadgeWidget({ url: 'https://calendly.com/teddykheav/30min',
+      text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff',
+      branding: true }); }</script>
+
+      <!-- Calendly badge widget end -->
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
