@@ -226,7 +226,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    title: SCHEDULE YOUR CALL WITH DANY
+    title: SCHEDULE YOUR CALL WITH FOUNDER
     media_position: bottom
 layout: advanced
 seo:
