@@ -248,7 +248,6 @@ sections:
 
       <!-- Calendly inline widget end -->
     media_position: left
-    media_width: sixty
     padding_bottom: none
     has_border: false
     background_color: primary
