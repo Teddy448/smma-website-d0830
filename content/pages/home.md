@@ -234,7 +234,6 @@ sections:
     content: |+
       ###### ****
 
-    image: /images/160992035_215617100037309_2130210439709428778_n.jpg
 layout: advanced
 seo:
   robots: []
