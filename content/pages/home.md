@@ -322,7 +322,7 @@ sections:
     background_image: /images/Proagenci.png
   - type: cta_section
     section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Core Advertising Service
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
