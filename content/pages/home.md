@@ -17,7 +17,7 @@ sections:
     section_id: Proagencihome
     has_border: true
     title: Welcome to ProAGenci
-    align: center
+    align: left
     background_image_repeat: no-repeat
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
