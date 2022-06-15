@@ -22,32 +22,6 @@ sections:
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
     media_width: sixty
     media_position: right
-  - section_id: whoarewe
-    title: Who are we?
-    content: >
-      **ProAgenci** is a Group of **Talents Peoples** who work on Ads & Strategy
-      your solution to business expansion.
-
-
-
-
-      Core Advertising Service
-
-
-      ![](https://incrementumdigital.com/wp-content/uploads/icon-influencer.png)
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 30
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
