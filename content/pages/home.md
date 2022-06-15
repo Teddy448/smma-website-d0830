@@ -250,7 +250,7 @@ sections:
     media_position: left
     media_width: sixty
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: primary
     background_image_opacity: 0
