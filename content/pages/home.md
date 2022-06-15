@@ -23,6 +23,7 @@ sections:
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
+    video_embed_html: 'https://fb.watch/dFTFMdNGL4/'
   - section_id: whoarewe
     title: Who are we?
     content: >
