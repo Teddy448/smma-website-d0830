@@ -234,7 +234,6 @@ sections:
     background_image: /images/Proagenci.png
   - type: hero_section
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     video_embed_html: >-
       <!-- Calendly inline widget begin -->
