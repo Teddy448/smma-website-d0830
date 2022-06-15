@@ -67,16 +67,6 @@ sections:
           Bring your business to show up
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
-      - title: "\U0001F3AFSocial Media\nBranding"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        subtitle: >-
-          (Best Recommend) to who just start-up the business and don't know how
-          to start to do marketing. We provide full service to help you (Artwork
-          Design, Content Marketing & Paid Advertising).
       - subtitle: Get a private marketing strategy to help your business grow.
         actions: []
         image_alt: lorem-ipsum
