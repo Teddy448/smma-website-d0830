@@ -226,7 +226,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    title: '1:1 Meeting w/ the FOUNDER'
+    title: SCHEDULE YOUR CALL WITH DANY
     media_position: bottom
 layout: advanced
 seo:
