@@ -8,7 +8,7 @@ sections:
         has_icon: true
         icon_position: left
         url: 'https://t.me/teddykheav'
-    media_position: bottom
+    media_position: left
     media_width: sixty
     padding_top: none
     padding_bottom: none
