@@ -56,7 +56,6 @@ sections:
     actions: []
     actions_position: bottom
     actions_width: fourty
-    align: left
     padding_top: medium
     padding_bottom: medium
     has_border: false
