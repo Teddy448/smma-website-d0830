@@ -34,7 +34,7 @@ sections:
       your solution to business expansion.
 
 
-      Core Advertising Service
+      > **Core Advertising Service**
 
     actions: []
     actions_position: bottom
