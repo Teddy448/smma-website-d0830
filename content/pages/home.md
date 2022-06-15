@@ -20,11 +20,6 @@ sections:
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
-    video_embed_html: >-
-      <iframe width="903" height="508"
-      src="https://www.youtube.com/embed/MqXjqOy-TA8" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_width: sixty
     media_position: right
   - section_id: whoarewe
