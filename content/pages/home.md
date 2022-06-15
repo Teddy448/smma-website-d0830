@@ -249,7 +249,7 @@ sections:
       <!-- Calendly inline widget end -->
     padding_bottom: none
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
