@@ -33,7 +33,7 @@ sections:
 
       <script type="text/javascript">window.onload = function() {
       Calendly.initBadgeWidget({ url: 'https://calendly.com/teddykheav/30min',
-      text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff',
+      text: 'Schedule time with me', color: '#fbae17', textColor: '#ffffff',
       branding: true }); }</script>
 
       <!-- Calendly badge widget end -->
