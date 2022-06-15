@@ -22,6 +22,11 @@ sections:
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
+    video_embed_html: >-
+      <iframe width="813" height="508"
+      src="https://www.youtube.com/embed/j_fJ1M0Mk9A" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - section_id: whoarewe
     title: Who are we?
     content: >
