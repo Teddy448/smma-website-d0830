@@ -232,35 +232,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/Proagenci.png
-  - type: hero_section
-    section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <!-- Calendly inline widget begin -->
-
-      <div class="calendly-inline-widget"
-      data-url="https://calendly.com/teddykheav/30min"
-      style="min-width:320px;height:630px;"></div>
-
-      <script type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script>
-
-      <!-- Calendly inline widget end -->
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
 layout: advanced
 seo:
   robots: []
