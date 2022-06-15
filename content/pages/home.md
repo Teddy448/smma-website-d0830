@@ -231,6 +231,14 @@ sections:
     subtitle: >-
       This is a 30-minute discovery call to see if you're a good fit to work
       with our agency.
+    content: >+
+      *   By the end of this Audit call, you will have a clear understanding of
+      the next steps you can take for your business to start generating
+      consistent and reliable results online with Funnels & Paid Advertising.
+          Find a time on Dany’s calendar to schedule your call today and we look forward to speaking to you soon!**THIS AUDIT CALL IS PERFECT FOR:**
+
+
+
 layout: advanced
 seo:
   robots: []
