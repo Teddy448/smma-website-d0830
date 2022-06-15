@@ -48,7 +48,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
   - section_id: lorem-ipsum
     title: Our Service
     subtitle: What i do for you.
