@@ -246,18 +246,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title_align: left
-        content: "\U0001F6ABWe do not create the content for campaigns.\n\n\U0001F6AB We do not offer google ads, email marketing, or SEO Optimization.\n\n\U0001F6AB We do not offer free trials.\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        title: We Don't
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
