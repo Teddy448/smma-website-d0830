@@ -29,13 +29,12 @@ sections:
     media_position: right
   - section_id: whoarewe
     title: Who are we?
-    content: >+
+    content: >
       **ProAgenci** is a Group of **Talents Peoples** who work on Ads & Strategy
       your solution to business expansion.
 
 
-      > **Core Advertising Service**
-
+      ****![](https://thumbs.dreamstime.com/b/tiktok-instagram-facebook-social-media-video-internet-services-icons-etc-kyiv-ukraine-december-204096150.jpg)
     actions: []
     actions_position: bottom
     actions_width: fourty
