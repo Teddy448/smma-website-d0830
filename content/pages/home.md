@@ -260,7 +260,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     subtitle: we take care of everything A-Z
-    grid_cols: two
   - section_id: 'Growth with Us, Start Now...'
     title: 'Growth with Us, Start Now...'
     content: |+
