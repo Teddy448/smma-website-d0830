@@ -90,7 +90,8 @@
                 "no_follow": false
             }
         ],
-        "content": "&copy;Proagenci, All rights reserved.                                                    Company Number: 0978444850"
+        "content": "&copy;Proagenci, All rights reserved.                                           ",
+        "links": []
     },
     "announcement": {
         "has_anncmnt": false,
@@ -101,5 +102,5 @@
         "anncmnt_id": "new-features"
     },
     "domain": "proagencikh.com/home",
-    "favicon": "/images/Logo  copy.png"
+    "favicon": "/images/logo.png"
 }

@@ -8,10 +8,7 @@ sections:
         has_icon: true
         icon_position: left
         url: 'https://t.me/teddykheav'
-    media_position: right
-    media_width: fourty
-    padding_top: none
-    padding_bottom: none
+    padding_top: medium
     background_color: secondary
     background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
     background_image_opacity: 15
@@ -21,32 +18,26 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
-    content: >
-      **តើអ្នកកំពុងស្វែកក្រុមអ្នកជំនាញ**
-      ក្នុងការធ្វើទីផ្សារសម្រាប់អាជីវកម្មអ្នកមែនទេ?ក្រុមពួកយើងមានបទពិសោធន៍ច្រើនជាង​២ឆ្នាំក្នុងវិស័យទីផ្សារនេះ
-      ហើយចំណាយលុយច្រើន 100K (ដប់មុឺនដុល្លា)លើ **Meta** (Facebook និង Instagram)។
-      ដូច្នេះអស់បារម្ភជាការកសាងយីហោ និង ការលក់ទៀតបន្ទាប់ពីធ្វើការជាមួយពួកយើង!
     subtitle: 'DEAR BUSINESS OWNER,'
-    image: /images/280414385_131490826145408_8291435943273844586_n.jpg
-  - section_id: whoarewe
-    title: Who are we?
-    content: >
-      **ProAgenci** is a Group of **Talents Peoples** who work on Ads & Strategy
-      your solution to business expansion.
+    image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
+    media_width: sixty
+    media_position: right
+  - type: cta_section
+    section_id: lorem-ipsum
+    title: Core Advertising Service
+    content: |
+      ![](https://incrementumdigital.com/wp-content/uploads/icon-influencer.png)
     actions: []
     actions_position: bottom
     actions_width: fourty
-    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image_opacity: 30
+    background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    type: cta_section
-    background_image: /images/annie-spratt-QckxruozjRg-unsplash.jpg
   - section_id: lorem-ipsum
     title: Our Service
     subtitle: What i do for you.
@@ -60,16 +51,6 @@ sections:
           Bring your business to show up
           in front of your ideal target audience using ads
           ( Facebook, Instagram, Tik Tok, etc )
-      - title: "\U0001F3AFSocial Media\nBranding"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        subtitle: >-
-          (Best Recommend) to who just start-up the business and don't know how
-          to start to do marketing. We provide full service to help you (Artwork
-          Design, Content Marketing & Paid Advertising).
       - subtitle: Get a private marketing strategy to help your business grow.
         actions: []
         image_alt: lorem-ipsum
@@ -175,7 +156,7 @@ sections:
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -186,112 +167,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: lorem-ipsum
-    title: Agenci Roadmap
-    subtitle: Here is our roadmap plan for our clients.
-    actions: []
-    grid_items:
-      - title: |-
-          1st
-          Month
-        subtitle: >-
-          Study audience, Our agency rules always spent our first month for
-          collect & utilizing data & scale campaigns next month.
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: |-
-          2nd
-          Month
-        subtitle: 'We start using Funnel to generate sales and leads.  '
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: |-
-          3rd
-          Month
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        subtitle: 10x Return on ads spent & start businesses expansion.
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 30
-    background_image_size: cover
-    background_image_position: right center
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: /images/jeshoots-com-fzOITuS1DIQ-unsplash.jpg
-  - title: What we do
-    actions: []
-    grid_items:
-      - title: Done For You
-        title_align: left
-        content: "\U0001F3AF We create the strategy\n\n\U0001F3AF We create the campaigns\n\n\U0001F3AF We collect data & optimize\n\n\U0001F3AF We take care of everything. A-Z\n\n\U0001F3AF You sit back and enjoy the weekly sales reports.\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title_align: left
-        content: "\U0001F6ABWe do not create the content for campaigns.\n\n\U0001F6AB We do not offer google ads, email marketing, or SEO Optimization.\n\n\U0001F6AB We do not offer free trials.\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        title: We Don't
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-    subtitle: we take care of everything A-Z
-    grid_cols: two
   - section_id: 'Growth with Us, Start Now...'
     title: 'Growth with Us, Start Now...'
     content: |+
@@ -329,6 +204,31 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/Proagenci.png
+  - type: hero_section
+    section_id: Book Meeting
+    actions: []
+    video_embed_html: >-
+      <!-- Calendly inline widget begin -->
+
+      <div class="calendly-inline-widget"
+      data-url="https://calendly.com/teddykheav/30-minute-meeting"
+      style="min-width:320px;height:630px;"></div>
+
+      <script type="text/javascript"
+      src="https://assets.calendly.com/assets/external/widget.js"
+      async></script>
+
+      <!-- Calendly inline widget end -->
+    padding_bottom: none
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    content: |+
+      ######
+
 layout: advanced
 seo:
   robots: []

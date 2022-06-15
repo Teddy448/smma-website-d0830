@@ -20,8 +20,7 @@ sections:
             no_follow: false
         media_position: left
         media_width: fifty
-        align: left
-        image: /images/feature-3.svg
+        align: right
         subtitle: តើអ្នកដឹងទេ?
       - title: "\U0001F4E3Run Ads មិចគេ Like ច្រើន?"
         subtitle: |-
@@ -45,10 +44,26 @@ sections:
             new_window: false
             no_follow: false
         image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: right
+      - type: feature
+        title: ក្រុមហ៊ុនហ្វេសបុកបានធ្វើការកំណែទម្រង់កាត់បន្ថយ Reach
+        actions:
+          - type: action
+            label: Read More
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+        image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
         align: right
-        image: /images/feature-2.svg
+        subtitle: កុំព្រួយបារម្មណ៍អី រឿងនេះកើតឡើងគ្រប់ផេកទាំងអស់!
     feature_padding_vert: small
     align: center
     has_border: true
