@@ -22,6 +22,13 @@ sections:
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
+    video_embed_html: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fweb.facebook.com%2Fproagenci%2Fvideos%2F1189559268464451%2F&show_text=false&width=560&t=0"
+      width="560" height="314" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - section_id: whoarewe
     title: Who are we?
     content: >
