@@ -272,8 +272,17 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      <!-- Calendly inline widget begin -->
+
+      <div class="calendly-inline-widget"
+      data-url="https://calendly.com/teddykheav/30min"
+      style="min-width:320px;height:630px;"></div>
+
+      <script type="text/javascript"
+      src="https://assets.calendly.com/assets/external/widget.js"
+      async></script>
+
+      <!-- Calendly inline widget end -->
     media_position: top
     media_width: fifty
     align: left
