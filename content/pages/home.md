@@ -8,7 +8,6 @@ sections:
         has_icon: true
         icon_position: left
         url: 'https://t.me/teddykheav'
-    media_position: right
     padding_top: medium
     background_color: secondary
     background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
