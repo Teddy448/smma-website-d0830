@@ -228,7 +228,7 @@ sections:
     background_image_repeat: no-repeat
     media_position: right
     content: |+
-      ###### ![](/images/160992035\_215617100037309\_2130210439709428778\_n.jpg)
+      ######
 
     subtitle: 'Schedule Call With Teddy '
 layout: advanced
