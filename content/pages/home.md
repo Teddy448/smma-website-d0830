@@ -228,9 +228,6 @@ sections:
     background_image_repeat: no-repeat
     title: SCHEDULE YOUR CALL WITH FOUNDER
     media_position: right
-    subtitle: >-
-      This is a 30-minute discovery call to see if you're a good fit to work
-      with our agency.
     content: |+
       ###### ![](/images/160992035\_215617100037309\_2130210439709428778\_n.jpg)
 
