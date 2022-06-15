@@ -9,7 +9,7 @@ sections:
         icon_position: left
         url: 'https://t.me/teddykheav'
     media_position: bottom
-    media_width: fourty
+    media_width: sixty
     padding_top: none
     padding_bottom: none
     background_color: secondary
