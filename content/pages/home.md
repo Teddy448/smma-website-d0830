@@ -254,7 +254,7 @@ sections:
       <!-- Calendly inline widget begin -->
 
       <div class="calendly-inline-widget"
-      data-url="https://calendly.com/teddykheav/30min"
+      data-url="https://calendly.com/teddykheav/30-minute-meeting"
       style="min-width:320px;height:630px;"></div>
 
       <script type="text/javascript"
