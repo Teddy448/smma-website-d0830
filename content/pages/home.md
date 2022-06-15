@@ -27,7 +27,7 @@ sections:
       ហើយចំណាយលុយច្រើន 100K (ដប់មុឺនដុល្លា)លើ **Meta** (Facebook និង Instagram)។
       ដូច្នេះអស់បារម្ភជាការកសាងយីហោ និង ការលក់ទៀតបន្ទាប់ពីធ្វើការជាមួយពួកយើង!
     subtitle: 'DEAR BUSINESS OWNER,'
-    image: /images/280414385_131490826145408_8291435943273844586_n.jpg
+    image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
   - section_id: whoarewe
     title: Who are we?
     content: >
