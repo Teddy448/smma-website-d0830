@@ -90,7 +90,20 @@
                 "no_follow": false
             }
         ],
-        "content": "&copy;Proagenci, All rights reserved.                                           "
+        "content": "&copy;Proagenci, All rights reserved.                                           ",
+        "links": [
+            {
+                "type": "action",
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "announcement": {
         "has_anncmnt": false,
