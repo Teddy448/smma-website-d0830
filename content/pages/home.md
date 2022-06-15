@@ -29,9 +29,13 @@ sections:
     media_position: right
   - section_id: whoarewe
     title: Who are we?
-    content: >
+    content: >+
       **ProAgenci** is a Group of **Talents Peoples** who work on Ads & Strategy
       your solution to business expansion.
+
+
+      Core Advertising Service
+
     actions: []
     actions_position: bottom
     actions_width: fourty
