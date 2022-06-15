@@ -230,6 +230,7 @@ sections:
     content: |+
       ###### ![](/images/160992035\_215617100037309\_2130210439709428778\_n.jpg)
 
+    title: 'Schedule Call With Teddy '
 layout: advanced
 seo:
   robots: []
