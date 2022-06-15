@@ -10,7 +10,7 @@ sections:
         url: 'https://t.me/teddykheav'
     media_position: right
     media_width: sixty
-    padding_top: none
+    padding_top: medium
     background_color: secondary
     background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
     background_image_opacity: 15
