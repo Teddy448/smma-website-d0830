@@ -230,7 +230,6 @@ sections:
     content: |+
       ######
 
-    subtitle: 'Schedule Call With Teddy '
 layout: advanced
 seo:
   robots: []
