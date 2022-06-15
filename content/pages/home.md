@@ -21,11 +21,6 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
-    content: >
-      **តើអ្នកកំពុងស្វែកក្រុមអ្នកជំនាញ**
-      ក្នុងការធ្វើទីផ្សារសម្រាប់អាជីវកម្មអ្នកមែនទេ?ក្រុមពួកយើងមានបទពិសោធន៍ច្រើនជាង​២ឆ្នាំក្នុងវិស័យទីផ្សារនេះ
-      ហើយចំណាយលុយច្រើន 100K (ដប់មុឺនដុល្លា)លើ **Meta** (Facebook និង Instagram)។
-      ដូច្នេះអស់បារម្ភជាការកសាងយីហោ និង ការលក់ទៀតបន្ទាប់ពីធ្វើការជាមួយពួកយើង!
     subtitle: 'DEAR BUSINESS OWNER,'
     image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
   - section_id: whoarewe
