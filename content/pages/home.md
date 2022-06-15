@@ -26,6 +26,7 @@ sections:
       src="https://www.youtube.com/embed/j_fJ1M0Mk9A" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    media_width: fifty
   - section_id: whoarewe
     title: Who are we?
     content: >
