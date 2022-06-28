@@ -10,7 +10,7 @@ sections:
         url: 'https://calendly.com/teddykheav/30-minute-meeting'
     padding_top: medium
     background_color: secondary
-    background_image_opacity: 100
+    background_image_opacity: 20
     section_id: Proagencihome
     has_border: true
     align: left
