@@ -77,7 +77,7 @@ sections:
 
   - section_id: lorem-ipsum
     title: Why ProAGenci is your choice?
-    subtitle: 'Best '
+    subtitle: Your best partnership in the business!!!
     actions: []
     grid_items:
       - title: "\U0001F4A1 Our Vision"
