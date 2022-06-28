@@ -68,7 +68,7 @@ sections:
     background_image_opacity: 30
     background_image_position: center center
     type: features_section
-    background_image: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
+    background_image: /images/Untitled design.jpg
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
     actions:
