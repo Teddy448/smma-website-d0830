@@ -182,7 +182,10 @@ sections:
     background_image_repeat: no-repeat
     content: "##### This is a 30-minute discovery call to see if you're a good\_**fit to work with our agency.**\n\n\n\n"
     title: Free Discovery Call
-    
+    <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/teddykheav/30-minute-meeting" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
     media_position: bottom
     padding_top: medium
     align: center
