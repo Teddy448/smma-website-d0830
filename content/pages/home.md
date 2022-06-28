@@ -19,7 +19,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_position: left center
     subtitle: 'DEAR BUSINESS OWNER,'
-    image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
     media_width: sixty
     media_position: right
   - type: cta_section
