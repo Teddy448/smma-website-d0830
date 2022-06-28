@@ -17,7 +17,6 @@ sections:
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
-    subtitle: 'DEAR BUSINESS OWNER,'
     media_width: sixty
     media_position: right
   - type: cta_section
