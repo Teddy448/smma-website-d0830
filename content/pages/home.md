@@ -13,7 +13,7 @@ sections:
     background_image_opacity: 100
     section_id: Proagencihome
     has_border: true
-    align: center
+    align: left
     background_image_repeat: no-repeat
     background_image_position: left center
     media_width: sixty
