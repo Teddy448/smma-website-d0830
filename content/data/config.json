@@ -1,7 +1,7 @@
 {
     "title": "ProAGenci | Advertising Agency",
     "path_prefix": "/",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "bold",
     "palette": "red",
     "mode": "dark",
