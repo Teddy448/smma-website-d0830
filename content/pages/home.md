@@ -192,9 +192,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: |+
-      #####
-
+    content: "##### This is a 30-minute discovery call to see if you're a good\_**fit to work with our agency.**\n\n\n\n"
     title: Free Discovery Call
     media_position: bottom
     padding_top: medium
