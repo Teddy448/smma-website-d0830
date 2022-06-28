@@ -29,7 +29,7 @@ sections:
     content: |
       ![](https://incrementumdigital.com/wp-content/uploads/icon-influencer.png)
     actions: []
-    actions_position: bottom
+    actions_position: left
     actions_width: fourty
     padding_top: medium
     padding_bottom: medium
