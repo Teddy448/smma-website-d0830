@@ -196,6 +196,7 @@ sections:
     content: |+
       ######
 
+    title: Free Discovery Call
 layout: advanced
 seo:
   robots: []
