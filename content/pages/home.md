@@ -174,18 +174,6 @@ sections:
   - type: hero_section
     section_id: Book Meeting
     actions: []
-    video_embed_html: >-
-      <!-- Calendly inline widget begin -->
-
-      <div class="calendly-inline-widget"
-      data-url="https://calendly.com/teddykheav/30-minute-meeting"
-      style="min-width:320px;height:630px;"></div>
-
-      <script type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script>
-
-      <!-- Calendly inline widget end -->
     padding_bottom: none
     has_border: false
     background_image_opacity: 0
