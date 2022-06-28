@@ -2,26 +2,27 @@
 sections:
   - type: hero_section
     actions:
-      - label: Contact Us Now via Telegram.
+      - label: "\U0001F680 BOOK A CALL"
         style: primary
         new_window: true
-        has_icon: true
+        has_icon: false
         icon_position: left
-        url: 'https://t.me/teddykheav'
+        url: 'https://calendly.com/teddykheav/30-minute-meeting'
     padding_top: medium
     background_color: secondary
-    background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
-    background_image_opacity: 15
+    background_image_opacity: 100
     section_id: Proagencihome
     has_border: true
-    title: Welcome to ProAGenci
     align: left
     background_image_repeat: no-repeat
     background_image_position: left center
-    subtitle: 'DEAR BUSINESS OWNER,'
-    image: /images/53468970-07b3-4122-a251-06d5d0daffe7-e40b602e.png
     media_width: sixty
     media_position: right
+    title: Scale Up At Lightning Speed.
+    subtitle: >-
+      We help ambitious Ecommerce brands accelerate growth and maximize ROI
+      through intelligent digital advertising.
+    background_image: /images/Untitled design (2).jpg
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
@@ -38,36 +39,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-  - section_id: lorem-ipsum
-    title: Our Service
-    subtitle: What i do for you.
-    features:
-      - title: "\U0001F4C8Paid Advertising"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: fourty
-        subtitle: |-
-          Bring your business to show up
-          in front of your ideal target audience using ads
-          ( Facebook, Instagram, Tik Tok, etc )
-      - subtitle: Get a private marketing strategy to help your business grow.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        title: "\U0001F4C6MARKETING & PERSONAL BRANDING CONSULTANT"
-    feature_padding_vert: small
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 30
-    background_image_position: center center
-    type: features_section
-    background_image: /images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
     actions:
@@ -106,7 +77,7 @@ sections:
 
   - section_id: lorem-ipsum
     title: Why ProAGenci is your choice?
-    subtitle: Best Agency in town..
+    subtitle: Your best partnership in the business!!!
     actions: []
     grid_items:
       - title: "\U0001F4A1 Our Vision"
@@ -169,11 +140,7 @@ sections:
     type: grid_section
   - section_id: 'Growth with Us, Start Now...'
     title: 'Growth with Us, Start Now...'
-    content: |+
-      \*Let us manage your ads, You've worked hard to build your business. \*
-
-      *We can help you scale it with social media advertising.*
-
+    content: "##### We focus on scaling promising Ecommerce businesses to 7 & 8 figures while establishing\_omnipresence\_in their market.&#xA;&#xA;\n\n"
     actions:
       - label: "\U0001F44B Telegram"
         url: 'https://t.me/teddykheav'
@@ -221,14 +188,15 @@ sections:
       <!-- Calendly inline widget end -->
     padding_bottom: none
     has_border: false
-    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: |+
-      ######
-
+    content: "##### This is a 30-minute discovery call to see if you're a good\_**fit to work with our agency.**\n\n\n\n"
+    title: Free Discovery Call
+    media_position: bottom
+    padding_top: medium
+    align: center
 layout: advanced
 seo:
   robots: []
