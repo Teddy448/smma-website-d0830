@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     actions:
-      - label: "\U0001F919\U0001F680BOOK A CALL"
+      - label: "\U0001F680BOOK A CALL"
         style: primary
         new_window: true
         has_icon: true
