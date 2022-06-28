@@ -23,12 +23,6 @@ sections:
       We help ambitious Ecommerce brands accelerate growth and maximize ROI
       through intelligent digital advertising.
     background_image: /images/Background website first page.jpg
-    video_embed_html: >-
-      <iframe src="https://giphy.com/embed/0Mh01I40M0WysPucyb" width="480"
-      height="480" frameBorder="0" class="giphy-embed"
-      allowFullScreen></iframe><p><a
-      href="https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-0Mh01I40M0WysPucyb">via
-      GIPHY</a></p>
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
