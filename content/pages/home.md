@@ -25,7 +25,7 @@ sections:
     background_image: /images/Untitled design (2).jpg
   - type: cta_section
     section_id: lorem-ipsum
-    title: Core Advertising Service
+    title: 'Core Paid Advertising '
     content: |
       ![](https://incrementumdigital.com/wp-content/uploads/icon-influencer.png)
     actions: []
