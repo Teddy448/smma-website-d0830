@@ -149,10 +149,7 @@ sections:
     type: grid_section
   - section_id: 'Growth with Us, Start Now...'
     title: 'Growth with Us, Start Now...'
-    content: |
-      ``[
-
-      ](https://www.the-upscale.com/)
+    content: "## We focus on scaling promising Ecommerce businesses to 7 & 8 figures while establishing\_omnipresence\_in their market.&#xA;&#xA;\n\n"
     actions:
       - label: "\U0001F44B Telegram"
         url: 'https://t.me/teddykheav'
