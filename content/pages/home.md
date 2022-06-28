@@ -178,7 +178,7 @@ sections:
       <!-- Calendly inline widget begin -->
 
       <div class="calendly-inline-widget"
-      data-url="https://calendly.com/teddykheav/30-minute-meeting"
+      data-url="https://calendly.com/teddykheav/30-minute-meeting"/>
 
       <!-- Calendly inline widget end -->
     padding_bottom: none
