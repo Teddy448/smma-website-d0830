@@ -21,6 +21,8 @@ sections:
     subtitle: 'DEAR BUSINESS OWNER,'
     media_width: sixty
     media_position: right
+    video_embed_html: >-
+      https://www.thebrandive.com/hosted/images/6b/d93cfdf75f4325aa0bed324d4de2ef/ezgif.com-gif-maker.gif
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
