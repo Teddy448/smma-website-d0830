@@ -22,6 +22,7 @@ sections:
     subtitle: >-
       We help ambitious Ecommerce brands accelerate growth and maximize ROI
       through intelligent digital advertising.
+    background_image: /images/Proagenci (1).png
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
