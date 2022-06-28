@@ -149,11 +149,10 @@ sections:
     type: grid_section
   - section_id: 'Growth with Us, Start Now...'
     title: 'Growth with Us, Start Now...'
-    content: |+
-      \*Let us manage your ads, You've worked hard to build your business. \*
+    content: |
+      ``[
 
-      *We can help you scale it with social media advertising.*
-
+      ](https://www.the-upscale.com/)
     actions:
       - label: "\U0001F44B Telegram"
         url: 'https://t.me/teddykheav'
