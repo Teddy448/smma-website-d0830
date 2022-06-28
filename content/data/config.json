@@ -30,11 +30,6 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
-            },
-            {
-                "label": "Contact Us",
-                "style": "link",
-                "url": "contactus"
             }
         ],
         "has_secondary_nav": true,
