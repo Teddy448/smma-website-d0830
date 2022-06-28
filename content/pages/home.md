@@ -5,7 +5,7 @@ sections:
       - label: "\U0001F680 BOOK A CALL"
         style: primary
         new_window: true
-        has_icon: true
+        has_icon: false
         icon_position: left
         url: 'https://calendly.com/teddykheav/30-minute-meeting'
     padding_top: medium
