@@ -19,6 +19,9 @@ sections:
     media_width: sixty
     media_position: right
     title: Scale Up At Lightning Speed.
+    subtitle: >-
+      We help ambitious Ecommerce brands accelerate growth and maximize ROI
+      through intelligent digital advertising.
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
