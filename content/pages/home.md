@@ -197,9 +197,6 @@ sections:
     media_position: bottom
     padding_top: medium
     align: center
-    subtitle: >
-      This is a 30-minute discovery call to see if you're a good fit to work
-      with our agency.
 layout: advanced
 seo:
   robots: []
