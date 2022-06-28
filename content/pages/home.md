@@ -22,7 +22,6 @@ sections:
     subtitle: >-
       We help ambitious Ecommerce brands accelerate growth and maximize ROI
       through intelligent digital advertising.
-    background_image: /images/Untitled design (1).jpg
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
