@@ -187,7 +187,7 @@ sections:
 
       <!-- Calendly inline widget end -->
     padding_bottom: none
-    has_border: false
+    has_border: true
     background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
