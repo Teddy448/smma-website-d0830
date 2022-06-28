@@ -18,6 +18,7 @@ sections:
     background_image_position: left center
     media_width: sixty
     media_position: right
+    title: Scale Up At Lightning Speed.
   - type: cta_section
     section_id: lorem-ipsum
     title: Core Advertising Service
