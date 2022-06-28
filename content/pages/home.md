@@ -194,14 +194,14 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >+
-      ###### \*\*We invite you to speak with us on a free 15-minute discovery
-      call. We'll learn more about your goals and identify which areas would
-      move the needle the most to grow your business.
+      ##### We invite you to speak with us on a free 15-minute discovery call.
+      We'll learn more about your goals and identify which areas would move the
+      needle the most to grow your business.
 
 
-      ###### Whether you're a fledgling Ecommerce brand, seasoned veteran, or
+      ##### Whether you're a fledgling Ecommerce brand, seasoned veteran, or
       niche leader – we welcome conversation and look forward to tackling
-      ambitious goals together.\*\*
+      ambitious goals together.
 
     title: Free Discovery Call
     media_position: right
