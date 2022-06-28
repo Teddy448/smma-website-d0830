@@ -68,7 +68,6 @@ sections:
     background_image_opacity: 30
     background_image_position: center center
     type: features_section
-    background_image: /images/Untitled design.jpg
     background_image_size: cover
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
