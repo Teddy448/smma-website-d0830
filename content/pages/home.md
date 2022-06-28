@@ -7,7 +7,7 @@ sections:
         new_window: true
         has_icon: true
         icon_position: left
-        url: 'https://t.me/teddykheav'
+        url: 'https://calendly.com/teddykheav/30-minute-meeting'
     padding_top: medium
     background_color: secondary
     background_image: /images/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
