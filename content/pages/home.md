@@ -39,36 +39,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-  - section_id: lorem-ipsum
-    title: Our Service
-    subtitle: What i do for you.
-    features:
-      - title: "\U0001F4C8Paid Advertising"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: fourty
-        subtitle: |-
-          Bring your business to show up
-          in front of your ideal target audience using ads
-          ( Facebook, Instagram, Tik Tok, etc )
-      - subtitle: Get a private marketing strategy to help your business grow.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        title: "\U0001F4C6MARKETING & PERSONAL BRANDING CONSULTANT"
-    feature_padding_vert: small
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 30
-    background_image_position: center center
-    type: features_section
-    background_image_size: cover
   - section_id: Calltoaction
     title: 'Growth with Us, Start Now...'
     actions:
