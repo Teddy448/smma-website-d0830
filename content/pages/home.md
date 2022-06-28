@@ -205,6 +205,7 @@ sections:
 
     title: Free Discovery Call
     media_position: right
+    padding_top: medium
 layout: advanced
 seo:
   robots: []
